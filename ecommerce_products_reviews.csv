@@ -1,0 +1,1001 @@
+product_id,brand,category,product_name,price,rating,review_count,units_sold,review_date,review_text,sentiment,revenue
+1,SmartChoice,Electronics,Wireless Headphones,1242.97,3.8,127,14,2026-05-06,delivery was normal and packaging was fine. The wireless headphones from SmartChoice is satisfactory.,Neutral,17401.58
+2,SmartChoice,Home & Kitchen,Air Fryer,2422.04,4.9,143,24,2026-02-14,excellent quality and works perfectly. The air fryer from SmartChoice is a good choice.,Positive,58128.96
+3,NovaTech,Books,Data Analytics Book,665.92,3.6,84,18,2026-04-22,product is okay and works as expected. The data analytics book from NovaTech is satisfactory.,Neutral,11986.56
+4,ProLine,Home & Kitchen,Mixer Grinder,259.5,3.2,91,16,2026-04-12,product is okay and works as expected. The mixer grinder from ProLine is satisfactory.,Neutral,4152.0
+5,ReadWell,Books,Python Programming Book,2333.36,3.8,71,20,2026-05-23,nothing special but acceptable. The python programming book from ReadWell is satisfactory.,Neutral,46667.2
+6,SmartChoice,Electronics,Bluetooth Speaker,356.49,3.2,97,16,2026-06-24,does the basic job. The bluetooth speaker from SmartChoice is satisfactory.,Neutral,5703.84
+7,UrbanGear,Fashion,Backpack,608.68,5.0,65,16,2026-06-22,amazing product and reliable. The backpack from UrbanGear is a good choice.,Positive,9738.88
+8,ReadWell,Electronics,Wireless Headphones,452.54,4.0,9,20,2026-07-03,excellent quality and works perfectly. The wireless headphones from ReadWell is a good choice.,Positive,9050.8
+9,HomeEase,Fashion,Sunglasses,1454.47,4.0,59,17,2026-01-23,amazing product and reliable. The sunglasses from HomeEase is a good choice.,Positive,24725.99
+10,NovaTech,Books,Machine Learning Book,740.02,3.6,191,16,2026-02-10,does the basic job. The machine learning book from NovaTech is satisfactory.,Neutral,11840.32
+11,HomeEase,Fashion,Sunglasses,1111.04,3.6,33,22,2026-04-09,nothing special but acceptable. The sunglasses from HomeEase is satisfactory.,Neutral,24442.88
+12,SmartChoice,Electronics,Wireless Headphones,1339.41,3.4,48,24,2026-05-29,average quality for the price. The wireless headphones from SmartChoice is satisfactory.,Neutral,32145.84
+13,NovaTech,Electronics,Bluetooth Speaker,659.14,3.8,22,22,2026-05-23,does the basic job. The bluetooth speaker from NovaTech is satisfactory.,Neutral,14501.08
+14,UrbanGear,Books,Business Strategy Book,413.58,3.9,181,13,2026-07-01,delivery was normal and packaging was fine. The business strategy book from UrbanGear is satisfactory.,Neutral,5376.54
+15,SmartChoice,Home & Kitchen,Electric Kettle,1138.31,4.9,64,19,2026-02-06,highly recommended. The electric kettle from SmartChoice is a good choice.,Positive,21627.89
+16,SmartChoice,Home & Kitchen,Mixer Grinder,2488.44,4.0,49,16,2026-03-25,very useful and easy to use. The mixer grinder from SmartChoice is a good choice.,Positive,39815.04
+17,HomeEase,Books,Novel,780.25,4.1,292,15,2026-04-23,highly recommended. The novel from HomeEase is a good choice.,Positive,11703.75
+18,UrbanGear,Fashion,Running Shoes,642.6,3.4,40,23,2026-06-11,product is okay and works as expected. The running shoes from UrbanGear is satisfactory.,Neutral,14779.8
+19,NovaTech,Books,Business Strategy Book,958.62,4.5,33,15,2026-06-11,very useful and easy to use. The business strategy book from NovaTech is a good choice.,Positive,14379.3
+20,ReadWell,Home & Kitchen,Storage Organizer,727.35,4.1,86,18,2026-08-23,highly recommended. The storage organizer from ReadWell is a good choice.,Positive,13092.3
+21,UrbanGear,Home & Kitchen,Electric Kettle,720.27,3.4,56,19,2026-05-15,average quality for the price. The electric kettle from UrbanGear is satisfactory.,Neutral,13685.13
+22,ReadWell,Books,Machine Learning Book,1170.31,4.1,61,30,2026-04-23,great value for money. The machine learning book from ReadWell is a good choice.,Positive,35109.3
+23,ReadWell,Home & Kitchen,Mixer Grinder,258.58,3.9,70,10,2026-01-25,product is okay and works as expected. The mixer grinder from ReadWell is satisfactory.,Neutral,2585.8
+24,SmartChoice,Electronics,Bluetooth Speaker,4462.67,3.8,90,14,2026-08-05,average quality for the price. The bluetooth speaker from SmartChoice is satisfactory.,Neutral,62477.38
+25,ReadWell,Electronics,Power Bank,1891.7,4.4,147,17,2026-08-28,better than expected. The power bank from ReadWell is a good choice.,Positive,32158.9
+26,NovaTech,Fashion,Sunglasses,498.35,4.3,596,17,2026-02-28,highly recommended. The sunglasses from NovaTech is a good choice.,Positive,8471.95
+27,NovaTech,Fashion,Hoodie,960.23,3.6,14,21,2026-08-11,delivery was normal and packaging was fine. The hoodie from NovaTech is satisfactory.,Neutral,20164.83
+28,NovaTech,Home & Kitchen,Storage Organizer,941.02,3.3,314,27,2026-09-14,delivery was normal and packaging was fine. The storage organizer from NovaTech is satisfactory.,Neutral,25407.54
+29,NovaTech,Home & Kitchen,Mixer Grinder,540.92,3.7,150,23,2026-09-17,delivery was normal and packaging was fine. The mixer grinder from NovaTech is satisfactory.,Neutral,12441.16
+30,HomeEase,Home & Kitchen,Air Fryer,404.37,2.9,80,25,2026-03-24,would not recommend. The air fryer from HomeEase is not recommended.,Negative,10109.25
+31,HomeEase,Electronics,USB-C Hub,402.77,3.0,112,21,2026-01-10,does the basic job. The usb-c hub from HomeEase is satisfactory.,Neutral,8458.17
+32,HomeEase,Electronics,Smart Watch,1091.64,4.1,32,20,2026-01-30,very useful and easy to use. The smart watch from HomeEase is a good choice.,Positive,21832.8
+33,NovaTech,Home & Kitchen,Mixer Grinder,414.9,4.3,25,17,2026-09-06,excellent quality and works perfectly. The mixer grinder from NovaTech is a good choice.,Positive,7053.3
+34,UrbanGear,Electronics,USB-C Hub,1501.17,4.5,100,21,2026-09-01,very useful and easy to use. The usb-c hub from UrbanGear is a good choice.,Positive,31524.57
+35,ProLine,Home & Kitchen,Electric Kettle,767.31,3.4,27,25,2026-08-05,nothing special but acceptable. The electric kettle from ProLine is satisfactory.,Neutral,19182.75
+36,SmartChoice,Home & Kitchen,Mixer Grinder,529.6,3.9,285,20,2026-06-09,average quality for the price. The mixer grinder from SmartChoice is satisfactory.,Neutral,10592.0
+37,ReadWell,Books,Business Strategy Book,1351.65,3.3,22,27,2026-08-20,nothing special but acceptable. The business strategy book from ReadWell is satisfactory.,Neutral,36494.55
+38,UrbanGear,Electronics,Bluetooth Speaker,1231.52,3.8,136,16,2026-06-23,product is okay and works as expected. The bluetooth speaker from UrbanGear is satisfactory.,Neutral,19704.32
+39,ProLine,Electronics,USB-C Hub,673.28,4.5,82,27,2026-04-23,very useful and easy to use. The usb-c hub from ProLine is a good choice.,Positive,18178.56
+40,SmartChoice,Electronics,Wireless Headphones,400.48,3.3,77,14,2026-04-28,product is okay and works as expected. The wireless headphones from SmartChoice is satisfactory.,Neutral,5606.72
+41,HomeEase,Electronics,Wireless Headphones,1135.65,4.3,196,17,2026-09-21,excellent quality and works perfectly. The wireless headphones from HomeEase is a good choice.,Positive,19306.05
+42,SmartChoice,Home & Kitchen,Electric Kettle,1785.34,4.2,111,19,2026-04-20,fast delivery and good packaging. The electric kettle from SmartChoice is a good choice.,Positive,33921.46
+43,ProLine,Home & Kitchen,Mixer Grinder,1304.37,4.6,173,25,2026-05-05,fast delivery and good packaging. The mixer grinder from ProLine is a good choice.,Positive,32609.25
+44,UrbanGear,Books,Novel,1374.44,3.4,52,20,2026-02-19,product is okay and works as expected. The novel from UrbanGear is satisfactory.,Neutral,27488.8
+45,ReadWell,Books,Business Strategy Book,4051.83,2.7,132,6,2026-08-28,disappointed with the purchase. The business strategy book from ReadWell is not recommended.,Negative,24310.98
+46,NovaTech,Electronics,Wireless Headphones,315.49,3.6,198,13,2026-06-23,does the basic job. The wireless headphones from NovaTech is satisfactory.,Neutral,4101.37
+47,UrbanGear,Electronics,Bluetooth Speaker,565.35,4.3,32,10,2026-08-18,very useful and easy to use. The bluetooth speaker from UrbanGear is a good choice.,Positive,5653.5
+48,UrbanGear,Home & Kitchen,Storage Organizer,1035.97,5.0,125,19,2026-08-25,great value for money. The storage organizer from UrbanGear is a good choice.,Positive,19683.43
+49,ReadWell,Home & Kitchen,Coffee Maker,585.36,4.5,30,24,2026-02-20,amazing product and reliable. The coffee maker from ReadWell is a good choice.,Positive,14048.64
+50,NovaTech,Electronics,USB-C Hub,835.32,3.1,47,14,2026-05-02,product is okay and works as expected. The usb-c hub from NovaTech is satisfactory.,Neutral,11694.48
+51,ReadWell,Home & Kitchen,Storage Organizer,2835.4,4.2,18,20,2026-04-20,fast delivery and good packaging. The storage organizer from ReadWell is a good choice.,Positive,56708.0
+52,UrbanGear,Books,Data Analytics Book,1634.36,2.9,41,17,2026-01-02,disappointed with the purchase. The data analytics book from UrbanGear is not recommended.,Negative,27784.12
+53,ReadWell,Books,Business Strategy Book,1200.96,4.4,26,19,2026-08-05,great value for money. The business strategy book from ReadWell is a good choice.,Positive,22818.24
+54,UrbanGear,Books,Python Programming Book,865.84,3.7,19,18,2026-04-22,delivery was normal and packaging was fine. The python programming book from UrbanGear is satisfactory.,Neutral,15585.12
+55,SmartChoice,Electronics,USB-C Hub,676.12,4.0,281,19,2026-02-01,better than expected. The usb-c hub from SmartChoice is a good choice.,Positive,12846.28
+56,NovaTech,Fashion,Running Shoes,353.92,3.3,105,11,2026-09-02,nothing special but acceptable. The running shoes from NovaTech is satisfactory.,Neutral,3893.12
+57,ProLine,Home & Kitchen,Coffee Maker,941.77,3.6,74,17,2026-04-06,product is okay and works as expected. The coffee maker from ProLine is satisfactory.,Neutral,16010.09
+58,NovaTech,Electronics,USB-C Hub,1384.06,5.0,9,28,2026-05-01,highly recommended. The usb-c hub from NovaTech is a good choice.,Positive,38753.68
+59,ProLine,Books,Data Analytics Book,1080.35,3.5,54,24,2026-01-21,average quality for the price. The data analytics book from ProLine is satisfactory.,Neutral,25928.4
+60,SmartChoice,Electronics,Power Bank,653.24,3.5,155,13,2026-09-25,nothing special but acceptable. The power bank from SmartChoice is satisfactory.,Neutral,8492.12
+61,UrbanGear,Fashion,Hoodie,1615.07,4.1,150,16,2026-06-10,highly recommended. The hoodie from UrbanGear is a good choice.,Positive,25841.12
+62,ReadWell,Home & Kitchen,Electric Kettle,1355.13,4.4,122,17,2026-06-03,very useful and easy to use. The electric kettle from ReadWell is a good choice.,Positive,23037.21
+63,NovaTech,Books,Business Strategy Book,1284.35,3.8,53,22,2026-08-23,product is okay and works as expected. The business strategy book from NovaTech is satisfactory.,Neutral,28255.7
+64,ProLine,Electronics,Wireless Headphones,1838.31,4.7,68,17,2026-09-17,very useful and easy to use. The wireless headphones from ProLine is a good choice.,Positive,31251.27
+65,HomeEase,Fashion,Backpack,1111.1,3.8,73,21,2026-05-06,product is okay and works as expected. The backpack from HomeEase is satisfactory.,Neutral,23333.1
+66,UrbanGear,Fashion,Hoodie,1325.1,3.2,19,21,2026-06-04,does the basic job. The hoodie from UrbanGear is satisfactory.,Neutral,27827.1
+67,HomeEase,Electronics,USB-C Hub,1350.29,4.3,65,18,2026-02-23,highly recommended. The usb-c hub from HomeEase is a good choice.,Positive,24305.22
+68,NovaTech,Home & Kitchen,Electric Kettle,502.29,3.4,48,14,2026-03-21,product is okay and works as expected. The electric kettle from NovaTech is satisfactory.,Neutral,7032.06
+69,ProLine,Fashion,Hoodie,527.4,4.1,85,22,2026-06-25,very useful and easy to use. The hoodie from ProLine is a good choice.,Positive,11602.8
+70,ProLine,Home & Kitchen,Electric Kettle,647.35,3.0,16,17,2026-05-09,does the basic job. The electric kettle from ProLine is satisfactory.,Neutral,11004.95
+71,SmartChoice,Electronics,Wireless Headphones,1101.56,4.9,157,13,2026-05-22,fast delivery and good packaging. The wireless headphones from SmartChoice is a good choice.,Positive,14320.28
+72,HomeEase,Electronics,Wireless Headphones,811.14,3.9,49,10,2026-05-15,average quality for the price. The wireless headphones from HomeEase is satisfactory.,Neutral,8111.4
+73,ProLine,Home & Kitchen,Storage Organizer,1110.05,3.4,112,30,2026-01-05,does the basic job. The storage organizer from ProLine is satisfactory.,Neutral,33301.5
+74,SmartChoice,Electronics,Wireless Headphones,2437.37,4.3,44,11,2026-01-19,very useful and easy to use. The wireless headphones from SmartChoice is a good choice.,Positive,26811.07
+75,ProLine,Fashion,Sunglasses,914.45,4.2,284,18,2026-08-09,very useful and easy to use. The sunglasses from ProLine is a good choice.,Positive,16460.1
+76,HomeEase,Home & Kitchen,Coffee Maker,1678.94,4.5,80,9,2026-01-21,great value for money. The coffee maker from HomeEase is a good choice.,Positive,15110.46
+77,SmartChoice,Fashion,Backpack,3735.98,3.4,28,18,2026-02-22,average quality for the price. The backpack from SmartChoice is satisfactory.,Neutral,67247.64
+78,ReadWell,Fashion,Sunglasses,609.59,3.4,77,22,2026-03-21,nothing special but acceptable. The sunglasses from ReadWell is satisfactory.,Neutral,13410.98
+79,UrbanGear,Home & Kitchen,Air Fryer,1669.32,3.5,27,28,2026-01-13,does the basic job. The air fryer from UrbanGear is satisfactory.,Neutral,46740.96
+80,ReadWell,Home & Kitchen,Electric Kettle,1239.1,3.0,416,9,2026-05-17,average quality for the price. The electric kettle from ReadWell is satisfactory.,Neutral,11151.9
+81,ReadWell,Home & Kitchen,Coffee Maker,1937.26,3.6,12,24,2026-08-29,product is okay and works as expected. The coffee maker from ReadWell is satisfactory.,Neutral,46494.24
+82,ReadWell,Home & Kitchen,Air Fryer,2169.85,2.9,36,24,2026-06-06,delivery was late and packaging was damaged. The air fryer from ReadWell is not recommended.,Negative,52076.4
+83,NovaTech,Home & Kitchen,Air Fryer,449.64,3.8,75,15,2026-07-24,average quality for the price. The air fryer from NovaTech is satisfactory.,Neutral,6744.6
+84,NovaTech,Fashion,Hoodie,1257.37,2.9,239,13,2026-05-23,would not recommend. The hoodie from NovaTech is not recommended.,Negative,16345.81
+85,ReadWell,Fashion,Sunglasses,2466.72,4.0,216,20,2026-06-19,highly recommended. The sunglasses from ReadWell is a good choice.,Positive,49334.4
+86,HomeEase,Electronics,Wireless Headphones,940.38,3.7,176,13,2026-05-16,average quality for the price. The wireless headphones from HomeEase is satisfactory.,Neutral,12224.94
+87,ProLine,Electronics,Wireless Headphones,1369.07,4.8,25,13,2026-06-26,fast delivery and good packaging. The wireless headphones from ProLine is a good choice.,Positive,17797.91
+88,ProLine,Fashion,Casual Shirt,1405.75,4.6,11,18,2026-03-01,better than expected. The casual shirt from ProLine is a good choice.,Positive,25303.5
+89,UrbanGear,Books,Machine Learning Book,755.42,4.4,299,18,2026-01-23,great value for money. The machine learning book from UrbanGear is a good choice.,Positive,13597.56
+90,ProLine,Books,Data Analytics Book,944.41,2.8,63,19,2026-04-11,would not recommend. The data analytics book from ProLine is not recommended.,Negative,17943.79
+91,NovaTech,Fashion,Casual Shirt,385.48,4.3,96,14,2026-06-19,highly recommended. The casual shirt from NovaTech is a good choice.,Positive,5396.72
+92,SmartChoice,Fashion,Running Shoes,488.57,3.9,173,21,2026-09-17,delivery was normal and packaging was fine. The running shoes from SmartChoice is satisfactory.,Neutral,10259.97
+93,HomeEase,Fashion,Casual Shirt,637.61,3.4,59,15,2026-06-01,does the basic job. The casual shirt from HomeEase is satisfactory.,Neutral,9564.15
+94,ReadWell,Home & Kitchen,Air Fryer,459.2,5.0,69,21,2026-07-14,highly recommended. The air fryer from ReadWell is a good choice.,Positive,9643.2
+95,ProLine,Home & Kitchen,Mixer Grinder,836.63,3.8,123,14,2026-07-27,delivery was normal and packaging was fine. The mixer grinder from ProLine is satisfactory.,Neutral,11712.82
+96,HomeEase,Electronics,Smart Watch,1472.59,3.7,6,20,2026-08-09,average quality for the price. The smart watch from HomeEase is satisfactory.,Neutral,29451.8
+97,ReadWell,Fashion,Casual Shirt,2621.82,3.7,118,19,2026-04-20,does the basic job. The casual shirt from ReadWell is satisfactory.,Neutral,49814.58
+98,SmartChoice,Books,Python Programming Book,1101.81,3.8,25,19,2026-05-26,product is okay and works as expected. The python programming book from SmartChoice is satisfactory.,Neutral,20934.39
+99,UrbanGear,Fashion,Running Shoes,550.47,3.0,34,20,2026-04-26,delivery was normal and packaging was fine. The running shoes from UrbanGear is satisfactory.,Neutral,11009.4
+100,NovaTech,Home & Kitchen,Air Fryer,445.59,3.9,292,12,2026-05-06,product is okay and works as expected. The air fryer from NovaTech is satisfactory.,Neutral,5347.08
+101,NovaTech,Books,Machine Learning Book,2422.19,4.3,23,16,2026-08-01,fast delivery and good packaging. The machine learning book from NovaTech is a good choice.,Positive,38755.04
+102,ReadWell,Home & Kitchen,Storage Organizer,795.26,4.5,450,20,2026-05-05,fast delivery and good packaging. The storage organizer from ReadWell is a good choice.,Positive,15905.2
+103,NovaTech,Home & Kitchen,Coffee Maker,589.62,3.6,36,12,2026-04-23,does the basic job. The coffee maker from NovaTech is satisfactory.,Neutral,7075.44
+104,ReadWell,Home & Kitchen,Mixer Grinder,513.27,4.1,63,13,2026-05-08,excellent quality and works perfectly. The mixer grinder from ReadWell is a good choice.,Positive,6672.51
+105,UrbanGear,Electronics,Power Bank,618.62,4.4,110,27,2026-08-26,amazing product and reliable. The power bank from UrbanGear is a good choice.,Positive,16702.74
+106,ProLine,Fashion,Casual Shirt,476.75,2.8,114,23,2026-09-16,would not recommend. The casual shirt from ProLine is not recommended.,Negative,10965.25
+107,ReadWell,Books,Machine Learning Book,548.0,2.7,13,13,2026-09-01,not worth the price. The machine learning book from ReadWell is not recommended.,Negative,7124.0
+108,UrbanGear,Books,Business Strategy Book,928.57,4.3,12,14,2026-05-22,amazing product and reliable. The business strategy book from UrbanGear is a good choice.,Positive,12999.98
+109,HomeEase,Books,Python Programming Book,589.16,3.9,28,17,2026-02-09,does the basic job. The python programming book from HomeEase is satisfactory.,Neutral,10015.72
+110,HomeEase,Fashion,Backpack,700.95,4.4,21,22,2026-06-13,great value for money. The backpack from HomeEase is a good choice.,Positive,15420.9
+111,UrbanGear,Electronics,Bluetooth Speaker,199.0,3.4,118,13,2026-07-16,average quality for the price. The bluetooth speaker from UrbanGear is satisfactory.,Neutral,2587.0
+112,NovaTech,Home & Kitchen,Air Fryer,788.72,4.0,57,20,2026-07-28,fast delivery and good packaging. The air fryer from NovaTech is a good choice.,Positive,15774.4
+113,ReadWell,Fashion,Sunglasses,1120.84,3.6,40,14,2026-02-01,does the basic job. The sunglasses from ReadWell is satisfactory.,Neutral,15691.76
+114,ReadWell,Home & Kitchen,Storage Organizer,679.41,4.1,531,17,2026-01-11,amazing product and reliable. The storage organizer from ReadWell is a good choice.,Positive,11549.97
+115,NovaTech,Books,Novel,1964.87,3.6,8,18,2026-06-02,delivery was normal and packaging was fine. The novel from NovaTech is satisfactory.,Neutral,35367.66
+116,ProLine,Books,Novel,467.38,3.9,356,17,2026-04-23,nothing special but acceptable. The novel from ProLine is satisfactory.,Neutral,7945.46
+117,HomeEase,Books,Python Programming Book,1048.95,4.4,15,14,2026-09-06,fast delivery and good packaging. The python programming book from HomeEase is a good choice.,Positive,14685.3
+118,HomeEase,Electronics,Power Bank,1892.84,4.3,645,25,2026-07-27,highly recommended. The power bank from HomeEase is a good choice.,Positive,47321.0
+119,UrbanGear,Home & Kitchen,Storage Organizer,667.68,3.3,152,17,2026-01-14,nothing special but acceptable. The storage organizer from UrbanGear is satisfactory.,Neutral,11350.56
+120,ProLine,Books,Machine Learning Book,515.91,3.7,25,23,2026-02-12,product is okay and works as expected. The machine learning book from ProLine is satisfactory.,Neutral,11865.93
+121,ReadWell,Books,Python Programming Book,1472.09,3.3,159,21,2026-01-26,average quality for the price. The python programming book from ReadWell is satisfactory.,Neutral,30913.89
+122,HomeEase,Fashion,Casual Shirt,2172.34,3.4,19,20,2026-08-21,average quality for the price. The casual shirt from HomeEase is satisfactory.,Neutral,43446.8
+123,ReadWell,Fashion,Hoodie,1377.1,3.9,88,19,2026-08-04,delivery was normal and packaging was fine. The hoodie from ReadWell is satisfactory.,Neutral,26164.9
+124,ReadWell,Fashion,Running Shoes,433.04,4.0,137,22,2026-01-27,excellent quality and works perfectly. The running shoes from ReadWell is a good choice.,Positive,9526.88
+125,SmartChoice,Fashion,Backpack,3058.59,4.8,328,18,2026-01-21,excellent quality and works perfectly. The backpack from SmartChoice is a good choice.,Positive,55054.62
+126,UrbanGear,Electronics,Bluetooth Speaker,645.55,3.9,199,20,2026-03-20,product is okay and works as expected. The bluetooth speaker from UrbanGear is satisfactory.,Neutral,12911.0
+127,ReadWell,Home & Kitchen,Air Fryer,812.15,3.6,24,19,2026-04-22,product is okay and works as expected. The air fryer from ReadWell is satisfactory.,Neutral,15430.85
+128,HomeEase,Books,Business Strategy Book,306.97,3.1,18,22,2026-02-28,average quality for the price. The business strategy book from HomeEase is satisfactory.,Neutral,6753.34
+129,NovaTech,Home & Kitchen,Electric Kettle,760.26,2.9,52,19,2026-01-14,quality could be much better. The electric kettle from NovaTech is not recommended.,Negative,14444.94
+130,SmartChoice,Fashion,Sunglasses,753.8,3.7,133,20,2026-07-23,does the basic job. The sunglasses from SmartChoice is satisfactory.,Neutral,15076.0
+131,ProLine,Home & Kitchen,Coffee Maker,755.68,3.2,874,15,2026-02-22,average quality for the price. The coffee maker from ProLine is satisfactory.,Neutral,11335.2
+132,NovaTech,Fashion,Sunglasses,935.32,3.9,38,20,2026-01-22,nothing special but acceptable. The sunglasses from NovaTech is satisfactory.,Neutral,18706.4
+133,ReadWell,Fashion,Sunglasses,762.54,4.9,5,18,2026-07-09,highly recommended. The sunglasses from ReadWell is a good choice.,Positive,13725.72
+134,SmartChoice,Electronics,USB-C Hub,1829.64,3.7,45,17,2026-01-07,delivery was normal and packaging was fine. The usb-c hub from SmartChoice is satisfactory.,Neutral,31103.88
+135,NovaTech,Books,Novel,437.26,5.0,169,15,2026-07-05,fast delivery and good packaging. The novel from NovaTech is a good choice.,Positive,6558.9
+136,ReadWell,Books,Python Programming Book,2056.8,3.6,108,21,2026-09-25,average quality for the price. The python programming book from ReadWell is satisfactory.,Neutral,43192.8
+137,ProLine,Fashion,Sunglasses,769.84,3.7,135,24,2026-08-27,does the basic job. The sunglasses from ProLine is satisfactory.,Neutral,18476.16
+138,HomeEase,Books,Machine Learning Book,1201.31,3.2,123,15,2026-05-06,delivery was normal and packaging was fine. The machine learning book from HomeEase is satisfactory.,Neutral,18019.65
+139,ReadWell,Electronics,Smart Watch,1112.52,3.1,168,23,2026-08-26,average quality for the price. The smart watch from ReadWell is satisfactory.,Neutral,25587.96
+140,NovaTech,Books,Business Strategy Book,798.08,3.4,16,20,2026-06-16,does the basic job. The business strategy book from NovaTech is satisfactory.,Neutral,15961.6
+141,UrbanGear,Home & Kitchen,Storage Organizer,391.55,5.0,8,23,2026-05-13,great value for money. The storage organizer from UrbanGear is a good choice.,Positive,9005.65
+142,ProLine,Fashion,Hoodie,2711.05,3.9,200,25,2026-01-06,delivery was normal and packaging was fine. The hoodie from ProLine is satisfactory.,Neutral,67776.25
+143,UrbanGear,Home & Kitchen,Coffee Maker,710.56,3.9,90,21,2026-09-08,does the basic job. The coffee maker from UrbanGear is satisfactory.,Neutral,14921.76
+144,SmartChoice,Home & Kitchen,Storage Organizer,296.13,4.0,55,14,2026-09-09,highly recommended. The storage organizer from SmartChoice is a good choice.,Positive,4145.82
+145,NovaTech,Books,Data Analytics Book,1022.18,3.3,100,21,2026-04-24,delivery was normal and packaging was fine. The data analytics book from NovaTech is satisfactory.,Neutral,21465.78
+146,HomeEase,Books,Python Programming Book,297.59,4.1,178,20,2026-07-08,highly recommended. The python programming book from HomeEase is a good choice.,Positive,5951.8
+147,ProLine,Books,Machine Learning Book,272.01,3.1,35,14,2026-08-06,delivery was normal and packaging was fine. The machine learning book from ProLine is satisfactory.,Neutral,3808.14
+148,SmartChoice,Fashion,Hoodie,915.39,4.0,31,15,2026-05-19,fast delivery and good packaging. The hoodie from SmartChoice is a good choice.,Positive,13730.85
+149,UrbanGear,Fashion,Hoodie,493.88,3.0,25,20,2026-04-09,product is okay and works as expected. The hoodie from UrbanGear is satisfactory.,Neutral,9877.6
+150,SmartChoice,Fashion,Running Shoes,1785.16,4.2,80,22,2026-04-05,better than expected. The running shoes from SmartChoice is a good choice.,Positive,39273.52
+151,SmartChoice,Home & Kitchen,Air Fryer,619.08,4.0,862,17,2026-05-22,fast delivery and good packaging. The air fryer from SmartChoice is a good choice.,Positive,10524.36
+152,UrbanGear,Fashion,Running Shoes,845.52,3.9,391,21,2026-04-27,delivery was normal and packaging was fine. The running shoes from UrbanGear is satisfactory.,Neutral,17755.92
+153,HomeEase,Fashion,Backpack,1425.72,3.5,125,16,2026-03-06,product is okay and works as expected. The backpack from HomeEase is satisfactory.,Neutral,22811.52
+154,NovaTech,Fashion,Running Shoes,1693.5,3.4,52,26,2026-05-30,nothing special but acceptable. The running shoes from NovaTech is satisfactory.,Neutral,44031.0
+155,NovaTech,Home & Kitchen,Storage Organizer,857.49,4.3,79,23,2026-01-07,amazing product and reliable. The storage organizer from NovaTech is a good choice.,Positive,19722.27
+156,ReadWell,Fashion,Casual Shirt,377.82,4.4,105,16,2026-06-24,fast delivery and good packaging. The casual shirt from ReadWell is a good choice.,Positive,6045.12
+157,HomeEase,Home & Kitchen,Coffee Maker,1189.93,4.0,87,26,2026-09-02,amazing product and reliable. The coffee maker from HomeEase is a good choice.,Positive,30938.18
+158,ReadWell,Electronics,Wireless Headphones,392.49,3.2,191,26,2026-02-07,does the basic job. The wireless headphones from ReadWell is satisfactory.,Neutral,10204.74
+159,UrbanGear,Electronics,Bluetooth Speaker,877.16,4.3,68,17,2026-06-05,amazing product and reliable. The bluetooth speaker from UrbanGear is a good choice.,Positive,14911.72
+160,NovaTech,Electronics,Bluetooth Speaker,917.58,4.0,42,15,2026-08-02,better than expected. The bluetooth speaker from NovaTech is a good choice.,Positive,13763.7
+161,ReadWell,Home & Kitchen,Mixer Grinder,1039.8,3.6,234,11,2026-08-15,does the basic job. The mixer grinder from ReadWell is satisfactory.,Neutral,11437.8
+162,ReadWell,Fashion,Sunglasses,503.16,4.8,81,17,2026-01-31,great value for money. The sunglasses from ReadWell is a good choice.,Positive,8553.72
+163,SmartChoice,Electronics,Bluetooth Speaker,1070.6,4.5,72,27,2026-05-16,very useful and easy to use. The bluetooth speaker from SmartChoice is a good choice.,Positive,28906.2
+164,UrbanGear,Electronics,Bluetooth Speaker,1798.95,3.6,272,19,2026-02-08,average quality for the price. The bluetooth speaker from UrbanGear is satisfactory.,Neutral,34180.05
+165,ReadWell,Home & Kitchen,Coffee Maker,673.72,4.8,323,15,2026-08-29,fast delivery and good packaging. The coffee maker from ReadWell is a good choice.,Positive,10105.8
+166,UrbanGear,Fashion,Running Shoes,640.68,3.0,26,16,2026-05-25,delivery was normal and packaging was fine. The running shoes from UrbanGear is satisfactory.,Neutral,10250.88
+167,SmartChoice,Books,Data Analytics Book,879.94,4.1,314,23,2026-05-16,very useful and easy to use. The data analytics book from SmartChoice is a good choice.,Positive,20238.62
+168,NovaTech,Home & Kitchen,Storage Organizer,470.34,4.5,53,28,2026-04-26,better than expected. The storage organizer from NovaTech is a good choice.,Positive,13169.52
+169,UrbanGear,Home & Kitchen,Electric Kettle,433.82,4.1,78,20,2026-01-31,excellent quality and works perfectly. The electric kettle from UrbanGear is a good choice.,Positive,8676.4
+170,ProLine,Home & Kitchen,Electric Kettle,1239.53,3.5,39,15,2026-05-28,nothing special but acceptable. The electric kettle from ProLine is satisfactory.,Neutral,18592.95
+171,ReadWell,Books,Data Analytics Book,594.72,4.7,276,22,2026-06-05,highly recommended. The data analytics book from ReadWell is a good choice.,Positive,13083.84
+172,ProLine,Books,Business Strategy Book,621.05,3.5,125,15,2026-09-10,nothing special but acceptable. The business strategy book from ProLine is satisfactory.,Neutral,9315.75
+173,ProLine,Books,Data Analytics Book,2460.88,5.0,36,24,2026-08-10,excellent quality and works perfectly. The data analytics book from ProLine is a good choice.,Positive,59061.12
+174,HomeEase,Fashion,Sunglasses,699.52,4.3,497,12,2026-02-16,excellent quality and works perfectly. The sunglasses from HomeEase is a good choice.,Positive,8394.24
+175,ProLine,Home & Kitchen,Mixer Grinder,367.17,3.4,64,12,2026-05-18,product is okay and works as expected. The mixer grinder from ProLine is satisfactory.,Neutral,4406.04
+176,ReadWell,Electronics,Bluetooth Speaker,2889.55,3.6,83,24,2026-08-15,nothing special but acceptable. The bluetooth speaker from ReadWell is satisfactory.,Neutral,69349.2
+177,ProLine,Fashion,Backpack,4651.29,3.6,40,21,2026-09-09,does the basic job. The backpack from ProLine is satisfactory.,Neutral,97677.09
+178,HomeEase,Electronics,Power Bank,1774.19,4.3,46,23,2026-06-20,fast delivery and good packaging. The power bank from HomeEase is a good choice.,Positive,40806.37
+179,UrbanGear,Fashion,Running Shoes,1534.11,4.2,193,20,2026-07-30,great value for money. The running shoes from UrbanGear is a good choice.,Positive,30682.2
+180,SmartChoice,Books,Business Strategy Book,1924.53,3.8,77,17,2026-01-19,does the basic job. The business strategy book from SmartChoice is satisfactory.,Neutral,32717.01
+181,HomeEase,Books,Data Analytics Book,1143.71,3.6,68,21,2026-06-15,delivery was normal and packaging was fine. The data analytics book from HomeEase is satisfactory.,Neutral,24017.91
+182,ProLine,Electronics,Power Bank,2066.04,4.3,580,23,2026-01-01,amazing product and reliable. The power bank from ProLine is a good choice.,Positive,47518.92
+183,NovaTech,Books,Novel,1058.38,4.9,60,13,2026-09-23,very useful and easy to use. The novel from NovaTech is a good choice.,Positive,13758.94
+184,ReadWell,Fashion,Sunglasses,1078.97,3.6,80,16,2026-01-27,does the basic job. The sunglasses from ReadWell is satisfactory.,Neutral,17263.52
+185,ProLine,Home & Kitchen,Electric Kettle,981.25,3.4,220,22,2026-05-28,average quality for the price. The electric kettle from ProLine is satisfactory.,Neutral,21587.5
+186,NovaTech,Books,Novel,334.4,4.9,62,21,2026-05-03,excellent quality and works perfectly. The novel from NovaTech is a good choice.,Positive,7022.4
+187,ProLine,Home & Kitchen,Electric Kettle,351.14,2.5,103,21,2026-07-28,poor quality and stopped working. The electric kettle from ProLine is not recommended.,Negative,7373.94
+188,NovaTech,Electronics,Bluetooth Speaker,649.41,4.1,37,21,2026-03-02,fast delivery and good packaging. The bluetooth speaker from NovaTech is a good choice.,Positive,13637.61
+189,SmartChoice,Home & Kitchen,Storage Organizer,1373.37,3.8,422,18,2026-09-18,delivery was normal and packaging was fine. The storage organizer from SmartChoice is satisfactory.,Neutral,24720.66
+190,ReadWell,Fashion,Casual Shirt,448.92,3.9,85,25,2026-05-05,does the basic job. The casual shirt from ReadWell is satisfactory.,Neutral,11223.0
+191,UrbanGear,Books,Machine Learning Book,398.97,4.8,61,31,2026-04-08,fast delivery and good packaging. The machine learning book from UrbanGear is a good choice.,Positive,12368.07
+192,HomeEase,Home & Kitchen,Coffee Maker,1860.57,4.1,105,22,2026-08-01,amazing product and reliable. The coffee maker from HomeEase is a good choice.,Positive,40932.54
+193,HomeEase,Fashion,Sunglasses,1022.63,4.4,60,13,2026-01-02,amazing product and reliable. The sunglasses from HomeEase is a good choice.,Positive,13294.19
+194,ProLine,Fashion,Hoodie,2294.96,3.5,403,15,2026-09-08,nothing special but acceptable. The hoodie from ProLine is satisfactory.,Neutral,34424.4
+195,ProLine,Home & Kitchen,Storage Organizer,978.15,3.5,154,16,2026-06-26,does the basic job. The storage organizer from ProLine is satisfactory.,Neutral,15650.4
+196,ProLine,Fashion,Sunglasses,588.86,3.6,5,20,2026-08-22,does the basic job. The sunglasses from ProLine is satisfactory.,Neutral,11777.2
+197,SmartChoice,Fashion,Backpack,1499.92,4.2,25,14,2026-07-16,very useful and easy to use. The backpack from SmartChoice is a good choice.,Positive,20998.88
+198,NovaTech,Home & Kitchen,Storage Organizer,872.52,4.9,160,20,2026-08-31,great value for money. The storage organizer from NovaTech is a good choice.,Positive,17450.4
+199,SmartChoice,Books,Novel,1030.55,2.6,52,7,2026-03-19,would not recommend. The novel from SmartChoice is not recommended.,Negative,7213.85
+200,UrbanGear,Books,Data Analytics Book,577.73,3.2,50,20,2026-06-19,nothing special but acceptable. The data analytics book from UrbanGear is satisfactory.,Neutral,11554.6
+201,NovaTech,Electronics,Power Bank,620.87,4.3,270,10,2026-08-22,better than expected. The power bank from NovaTech is a good choice.,Positive,6208.7
+202,ReadWell,Electronics,Bluetooth Speaker,1641.57,4.4,98,17,2026-03-21,amazing product and reliable. The bluetooth speaker from ReadWell is a good choice.,Positive,27906.69
+203,HomeEase,Electronics,Power Bank,2119.0,4.0,531,19,2026-07-23,great value for money. The power bank from HomeEase is a good choice.,Positive,40261.0
+204,SmartChoice,Electronics,Smart Watch,575.03,3.5,41,25,2026-07-14,nothing special but acceptable. The smart watch from SmartChoice is satisfactory.,Neutral,14375.75
+205,ProLine,Fashion,Casual Shirt,1264.25,3.5,65,20,2026-02-05,product is okay and works as expected. The casual shirt from ProLine is satisfactory.,Neutral,25285.0
+206,UrbanGear,Home & Kitchen,Electric Kettle,3622.32,3.9,75,15,2026-08-11,product is okay and works as expected. The electric kettle from UrbanGear is satisfactory.,Neutral,54334.8
+207,ReadWell,Electronics,Wireless Headphones,761.36,2.8,99,22,2026-06-03,not worth the price. The wireless headphones from ReadWell is not recommended.,Negative,16749.92
+208,HomeEase,Electronics,Wireless Headphones,1370.69,3.1,15,24,2026-05-31,product is okay and works as expected. The wireless headphones from HomeEase is satisfactory.,Neutral,32896.56
+209,ReadWell,Fashion,Hoodie,2689.06,3.6,196,25,2026-05-06,average quality for the price. The hoodie from ReadWell is satisfactory.,Neutral,67226.5
+210,SmartChoice,Books,Machine Learning Book,877.75,4.3,13,26,2026-04-03,amazing product and reliable. The machine learning book from SmartChoice is a good choice.,Positive,22821.5
+211,NovaTech,Home & Kitchen,Air Fryer,2349.94,4.8,35,14,2026-07-15,better than expected. The air fryer from NovaTech is a good choice.,Positive,32899.16
+212,ProLine,Home & Kitchen,Storage Organizer,1164.06,3.9,215,16,2026-04-29,average quality for the price. The storage organizer from ProLine is satisfactory.,Neutral,18624.96
+213,ReadWell,Books,Business Strategy Book,1486.23,2.0,210,14,2026-01-05,delivery was late and packaging was damaged. The business strategy book from ReadWell is not recommended.,Negative,20807.22
+214,SmartChoice,Books,Business Strategy Book,290.49,3.1,212,23,2026-03-22,nothing special but acceptable. The business strategy book from SmartChoice is satisfactory.,Neutral,6681.27
+215,HomeEase,Electronics,Power Bank,872.97,4.2,72,17,2026-06-03,better than expected. The power bank from HomeEase is a good choice.,Positive,14840.49
+216,ReadWell,Books,Business Strategy Book,390.9,2.9,43,20,2026-06-04,would not recommend. The business strategy book from ReadWell is not recommended.,Negative,7818.0
+217,ReadWell,Home & Kitchen,Storage Organizer,717.5,3.7,48,20,2026-05-02,product is okay and works as expected. The storage organizer from ReadWell is satisfactory.,Neutral,14350.0
+218,HomeEase,Books,Machine Learning Book,3471.29,3.7,54,16,2026-06-01,nothing special but acceptable. The machine learning book from HomeEase is satisfactory.,Neutral,55540.64
+219,SmartChoice,Fashion,Running Shoes,1444.26,3.9,138,17,2026-05-21,does the basic job. The running shoes from SmartChoice is satisfactory.,Neutral,24552.42
+220,SmartChoice,Electronics,USB-C Hub,854.0,4.5,94,18,2026-01-26,amazing product and reliable. The usb-c hub from SmartChoice is a good choice.,Positive,15372.0
+221,UrbanGear,Books,Business Strategy Book,3497.62,3.8,201,15,2026-06-30,nothing special but acceptable. The business strategy book from UrbanGear is satisfactory.,Neutral,52464.3
+222,ProLine,Home & Kitchen,Air Fryer,457.81,3.5,452,25,2026-03-12,delivery was normal and packaging was fine. The air fryer from ProLine is satisfactory.,Neutral,11445.25
+223,HomeEase,Electronics,Wireless Headphones,1584.36,4.2,77,19,2026-08-14,amazing product and reliable. The wireless headphones from HomeEase is a good choice.,Positive,30102.84
+224,HomeEase,Electronics,USB-C Hub,1140.95,4.0,190,21,2026-03-09,highly recommended. The usb-c hub from HomeEase is a good choice.,Positive,23959.95
+225,HomeEase,Electronics,Smart Watch,1363.17,3.2,341,13,2026-03-31,does the basic job. The smart watch from HomeEase is satisfactory.,Neutral,17721.21
+226,ProLine,Home & Kitchen,Air Fryer,427.21,3.9,92,20,2026-09-29,delivery was normal and packaging was fine. The air fryer from ProLine is satisfactory.,Neutral,8544.2
+227,HomeEase,Fashion,Backpack,767.93,4.5,219,23,2026-09-04,amazing product and reliable. The backpack from HomeEase is a good choice.,Positive,17662.39
+228,NovaTech,Fashion,Hoodie,405.23,3.7,263,23,2026-02-08,does the basic job. The hoodie from NovaTech is satisfactory.,Neutral,9320.29
+229,SmartChoice,Home & Kitchen,Air Fryer,804.24,3.9,22,18,2026-07-07,does the basic job. The air fryer from SmartChoice is satisfactory.,Neutral,14476.32
+230,NovaTech,Electronics,Power Bank,352.96,3.3,7,15,2026-03-05,delivery was normal and packaging was fine. The power bank from NovaTech is satisfactory.,Neutral,5294.4
+231,SmartChoice,Books,Business Strategy Book,2616.79,4.6,33,17,2026-05-15,highly recommended. The business strategy book from SmartChoice is a good choice.,Positive,44485.43
+232,NovaTech,Books,Business Strategy Book,3891.22,2.3,659,17,2026-04-30,received a faulty product. The business strategy book from NovaTech is not recommended.,Negative,66150.74
+233,ProLine,Books,Data Analytics Book,1749.47,5.0,266,23,2026-06-17,better than expected. The data analytics book from ProLine is a good choice.,Positive,40237.81
+234,SmartChoice,Home & Kitchen,Coffee Maker,1298.46,4.4,88,17,2026-08-26,amazing product and reliable. The coffee maker from SmartChoice is a good choice.,Positive,22073.82
+235,NovaTech,Fashion,Casual Shirt,299.46,3.8,24,23,2026-01-24,average quality for the price. The casual shirt from NovaTech is satisfactory.,Neutral,6887.58
+236,ReadWell,Electronics,Smart Watch,439.25,4.5,13,22,2026-02-19,excellent quality and works perfectly. The smart watch from ReadWell is a good choice.,Positive,9663.5
+237,UrbanGear,Home & Kitchen,Mixer Grinder,475.22,3.8,115,14,2026-08-21,does the basic job. The mixer grinder from UrbanGear is satisfactory.,Neutral,6653.08
+238,ReadWell,Fashion,Sunglasses,479.61,3.5,91,20,2026-03-21,nothing special but acceptable. The sunglasses from ReadWell is satisfactory.,Neutral,9592.2
+239,ReadWell,Books,Data Analytics Book,888.58,4.3,83,28,2026-07-28,better than expected. The data analytics book from ReadWell is a good choice.,Positive,24880.24
+240,SmartChoice,Fashion,Running Shoes,2184.38,3.9,69,15,2026-04-22,delivery was normal and packaging was fine. The running shoes from SmartChoice is satisfactory.,Neutral,32765.7
+241,UrbanGear,Books,Novel,361.66,5.0,19,23,2026-07-05,amazing product and reliable. The novel from UrbanGear is a good choice.,Positive,8318.18
+242,ProLine,Electronics,Smart Watch,573.64,3.7,232,21,2026-02-01,delivery was normal and packaging was fine. The smart watch from ProLine is satisfactory.,Neutral,12046.44
+243,UrbanGear,Books,Business Strategy Book,522.92,5.0,20,15,2026-08-21,excellent quality and works perfectly. The business strategy book from UrbanGear is a good choice.,Positive,7843.8
+244,SmartChoice,Electronics,Bluetooth Speaker,1100.78,3.9,57,20,2026-01-11,nothing special but acceptable. The bluetooth speaker from SmartChoice is satisfactory.,Neutral,22015.6
+245,UrbanGear,Electronics,Smart Watch,626.42,3.0,61,22,2026-04-16,average quality for the price. The smart watch from UrbanGear is satisfactory.,Neutral,13781.24
+246,UrbanGear,Electronics,USB-C Hub,4813.63,5.0,38,13,2026-04-21,better than expected. The usb-c hub from UrbanGear is a good choice.,Positive,62577.19
+247,UrbanGear,Home & Kitchen,Electric Kettle,1302.75,5.0,45,15,2026-01-02,amazing product and reliable. The electric kettle from UrbanGear is a good choice.,Positive,19541.25
+248,UrbanGear,Fashion,Backpack,788.45,3.5,19,11,2026-05-09,nothing special but acceptable. The backpack from UrbanGear is satisfactory.,Neutral,8672.95
+249,SmartChoice,Home & Kitchen,Coffee Maker,1047.7,2.9,92,19,2026-01-14,would not recommend. The coffee maker from SmartChoice is not recommended.,Negative,19906.3
+250,HomeEase,Home & Kitchen,Coffee Maker,1547.18,4.7,19,20,2026-05-02,amazing product and reliable. The coffee maker from HomeEase is a good choice.,Positive,30943.6
+251,UrbanGear,Fashion,Running Shoes,569.15,3.9,116,14,2026-01-27,delivery was normal and packaging was fine. The running shoes from UrbanGear is satisfactory.,Neutral,7968.1
+252,ProLine,Home & Kitchen,Storage Organizer,945.58,4.0,16,12,2026-02-02,excellent quality and works perfectly. The storage organizer from ProLine is a good choice.,Positive,11346.96
+253,HomeEase,Books,Novel,557.97,4.7,198,27,2026-02-25,better than expected. The novel from HomeEase is a good choice.,Positive,15065.19
+254,UrbanGear,Books,Machine Learning Book,1337.2,3.2,48,19,2026-01-23,nothing special but acceptable. The machine learning book from UrbanGear is satisfactory.,Neutral,25406.8
+255,SmartChoice,Fashion,Casual Shirt,4064.15,4.2,80,23,2026-02-01,excellent quality and works perfectly. The casual shirt from SmartChoice is a good choice.,Positive,93475.45
+256,ReadWell,Books,Novel,736.18,3.4,17,20,2026-09-09,product is okay and works as expected. The novel from ReadWell is satisfactory.,Neutral,14723.6
+257,NovaTech,Books,Data Analytics Book,439.31,2.5,98,26,2026-03-17,delivery was late and packaging was damaged. The data analytics book from NovaTech is not recommended.,Negative,11422.06
+258,HomeEase,Electronics,Bluetooth Speaker,4549.83,4.0,60,17,2026-06-16,better than expected. The bluetooth speaker from HomeEase is a good choice.,Positive,77347.11
+259,ProLine,Books,Machine Learning Book,1070.84,4.1,34,12,2026-08-21,great value for money. The machine learning book from ProLine is a good choice.,Positive,12850.08
+260,SmartChoice,Books,Data Analytics Book,1715.09,4.2,27,21,2026-04-21,excellent quality and works perfectly. The data analytics book from SmartChoice is a good choice.,Positive,36016.89
+261,UrbanGear,Books,Novel,885.48,4.4,267,14,2026-06-23,fast delivery and good packaging. The novel from UrbanGear is a good choice.,Positive,12396.72
+262,ReadWell,Books,Novel,1293.32,3.2,49,17,2026-06-10,product is okay and works as expected. The novel from ReadWell is satisfactory.,Neutral,21986.44
+263,SmartChoice,Books,Business Strategy Book,933.76,4.2,62,16,2026-07-11,great value for money. The business strategy book from SmartChoice is a good choice.,Positive,14940.16
+264,NovaTech,Home & Kitchen,Storage Organizer,1234.75,3.3,57,21,2026-02-13,product is okay and works as expected. The storage organizer from NovaTech is satisfactory.,Neutral,25929.75
+265,NovaTech,Electronics,Power Bank,2434.22,4.7,53,14,2026-07-10,highly recommended. The power bank from NovaTech is a good choice.,Positive,34079.08
+266,NovaTech,Home & Kitchen,Mixer Grinder,2371.71,3.5,49,21,2026-06-18,nothing special but acceptable. The mixer grinder from NovaTech is satisfactory.,Neutral,49805.91
+267,HomeEase,Electronics,Power Bank,999.01,3.9,103,16,2026-01-27,does the basic job. The power bank from HomeEase is satisfactory.,Neutral,15984.16
+268,HomeEase,Fashion,Sunglasses,1951.42,2.2,169,18,2026-02-23,delivery was late and packaging was damaged. The sunglasses from HomeEase is not recommended.,Negative,35125.56
+269,SmartChoice,Home & Kitchen,Air Fryer,420.66,2.7,114,23,2026-04-25,disappointed with the purchase. The air fryer from SmartChoice is not recommended.,Negative,9675.18
+270,ProLine,Electronics,Smart Watch,1474.16,3.5,5,22,2026-02-28,delivery was normal and packaging was fine. The smart watch from ProLine is satisfactory.,Neutral,32431.52
+271,UrbanGear,Fashion,Sunglasses,344.16,4.0,65,13,2026-08-08,amazing product and reliable. The sunglasses from UrbanGear is a good choice.,Positive,4474.08
+272,SmartChoice,Electronics,USB-C Hub,1311.51,4.7,56,12,2026-05-17,amazing product and reliable. The usb-c hub from SmartChoice is a good choice.,Positive,15738.12
+273,HomeEase,Electronics,Bluetooth Speaker,674.7,3.3,56,17,2026-06-23,delivery was normal and packaging was fine. The bluetooth speaker from HomeEase is satisfactory.,Neutral,11469.9
+274,UrbanGear,Fashion,Running Shoes,2738.06,4.9,54,23,2026-03-15,amazing product and reliable. The running shoes from UrbanGear is a good choice.,Positive,62975.38
+275,UrbanGear,Books,Data Analytics Book,607.13,5.0,131,18,2026-01-16,highly recommended. The data analytics book from UrbanGear is a good choice.,Positive,10928.34
+276,UrbanGear,Electronics,USB-C Hub,655.4,4.4,89,21,2026-08-03,fast delivery and good packaging. The usb-c hub from UrbanGear is a good choice.,Positive,13763.4
+277,UrbanGear,Books,Business Strategy Book,918.92,3.4,105,19,2026-06-09,delivery was normal and packaging was fine. The business strategy book from UrbanGear is satisfactory.,Neutral,17459.48
+278,ProLine,Fashion,Sunglasses,579.33,3.7,80,11,2026-01-27,product is okay and works as expected. The sunglasses from ProLine is satisfactory.,Neutral,6372.63
+279,ProLine,Home & Kitchen,Air Fryer,374.94,3.3,221,21,2026-02-11,product is okay and works as expected. The air fryer from ProLine is satisfactory.,Neutral,7873.74
+280,SmartChoice,Fashion,Casual Shirt,587.23,4.7,136,16,2026-09-06,fast delivery and good packaging. The casual shirt from SmartChoice is a good choice.,Positive,9395.68
+281,HomeEase,Books,Novel,1719.56,3.4,16,15,2026-09-20,average quality for the price. The novel from HomeEase is satisfactory.,Neutral,25793.4
+282,ReadWell,Electronics,Smart Watch,2388.12,4.8,116,21,2026-05-26,excellent quality and works perfectly. The smart watch from ReadWell is a good choice.,Positive,50150.52
+283,SmartChoice,Books,Machine Learning Book,592.36,4.5,70,20,2026-01-24,great value for money. The machine learning book from SmartChoice is a good choice.,Positive,11847.2
+284,ProLine,Home & Kitchen,Storage Organizer,1071.68,4.2,194,13,2026-01-04,excellent quality and works perfectly. The storage organizer from ProLine is a good choice.,Positive,13931.84
+285,UrbanGear,Home & Kitchen,Electric Kettle,456.35,2.6,521,28,2026-03-12,would not recommend. The electric kettle from UrbanGear is not recommended.,Negative,12777.8
+286,HomeEase,Fashion,Hoodie,439.36,3.8,50,25,2026-01-04,product is okay and works as expected. The hoodie from HomeEase is satisfactory.,Neutral,10984.0
+287,UrbanGear,Books,Novel,1574.51,3.5,56,22,2026-07-14,average quality for the price. The novel from UrbanGear is satisfactory.,Neutral,34639.22
+288,ProLine,Home & Kitchen,Mixer Grinder,1081.46,4.2,139,23,2026-07-01,amazing product and reliable. The mixer grinder from ProLine is a good choice.,Positive,24873.58
+289,SmartChoice,Electronics,Power Bank,1012.38,3.1,99,23,2026-08-12,product is okay and works as expected. The power bank from SmartChoice is satisfactory.,Neutral,23284.74
+290,NovaTech,Electronics,Power Bank,589.35,4.7,68,22,2026-06-10,amazing product and reliable. The power bank from NovaTech is a good choice.,Positive,12965.7
+291,ReadWell,Books,Machine Learning Book,1052.46,5.0,117,21,2026-08-02,highly recommended. The machine learning book from ReadWell is a good choice.,Positive,22101.66
+292,ReadWell,Fashion,Running Shoes,286.55,4.7,130,14,2026-06-16,excellent quality and works perfectly. The running shoes from ReadWell is a good choice.,Positive,4011.7
+293,ReadWell,Home & Kitchen,Mixer Grinder,785.66,3.3,37,20,2026-02-15,delivery was normal and packaging was fine. The mixer grinder from ReadWell is satisfactory.,Neutral,15713.2
+294,UrbanGear,Books,Data Analytics Book,1319.45,3.1,104,17,2026-07-25,does the basic job. The data analytics book from UrbanGear is satisfactory.,Neutral,22430.65
+295,HomeEase,Electronics,Power Bank,824.92,3.9,30,29,2026-04-24,delivery was normal and packaging was fine. The power bank from HomeEase is satisfactory.,Neutral,23922.68
+296,NovaTech,Fashion,Backpack,1371.66,3.3,43,16,2026-02-28,nothing special but acceptable. The backpack from NovaTech is satisfactory.,Neutral,21946.56
+297,HomeEase,Home & Kitchen,Electric Kettle,2765.35,3.6,83,18,2026-05-01,average quality for the price. The electric kettle from HomeEase is satisfactory.,Neutral,49776.3
+298,HomeEase,Electronics,Bluetooth Speaker,1650.08,2.9,235,23,2026-03-30,not worth the price. The bluetooth speaker from HomeEase is not recommended.,Negative,37951.84
+299,UrbanGear,Home & Kitchen,Coffee Maker,628.72,5.0,37,20,2026-09-10,amazing product and reliable. The coffee maker from UrbanGear is a good choice.,Positive,12574.4
+300,ProLine,Books,Machine Learning Book,1014.7,5.0,223,21,2026-06-15,fast delivery and good packaging. The machine learning book from ProLine is a good choice.,Positive,21308.7
+301,ReadWell,Fashion,Backpack,1492.68,3.5,29,10,2026-08-29,product is okay and works as expected. The backpack from ReadWell is satisfactory.,Neutral,14926.8
+302,HomeEase,Books,Business Strategy Book,898.03,4.4,173,23,2026-01-29,better than expected. The business strategy book from HomeEase is a good choice.,Positive,20654.69
+303,NovaTech,Fashion,Sunglasses,428.5,3.8,32,12,2026-08-25,delivery was normal and packaging was fine. The sunglasses from NovaTech is satisfactory.,Neutral,5142.0
+304,NovaTech,Books,Data Analytics Book,267.51,4.9,125,21,2026-05-27,great value for money. The data analytics book from NovaTech is a good choice.,Positive,5617.71
+305,ProLine,Electronics,Wireless Headphones,1990.35,4.3,53,24,2026-09-17,better than expected. The wireless headphones from ProLine is a good choice.,Positive,47768.4
+306,ProLine,Books,Novel,482.39,5.0,312,14,2026-01-22,better than expected. The novel from ProLine is a good choice.,Positive,6753.46
+307,SmartChoice,Books,Machine Learning Book,986.31,2.8,92,16,2026-06-14,not worth the price. The machine learning book from SmartChoice is not recommended.,Negative,15780.96
+308,UrbanGear,Books,Machine Learning Book,817.67,4.2,39,18,2026-08-19,excellent quality and works perfectly. The machine learning book from UrbanGear is a good choice.,Positive,14718.06
+309,SmartChoice,Electronics,Smart Watch,884.05,5.0,351,23,2026-09-16,excellent quality and works perfectly. The smart watch from SmartChoice is a good choice.,Positive,20333.15
+310,UrbanGear,Home & Kitchen,Coffee Maker,668.66,3.3,90,22,2026-08-13,does the basic job. The coffee maker from UrbanGear is satisfactory.,Neutral,14710.52
+311,HomeEase,Home & Kitchen,Electric Kettle,843.28,3.8,27,26,2026-07-18,delivery was normal and packaging was fine. The electric kettle from HomeEase is satisfactory.,Neutral,21925.28
+312,SmartChoice,Books,Business Strategy Book,525.8,4.5,29,18,2026-01-27,better than expected. The business strategy book from SmartChoice is a good choice.,Positive,9464.4
+313,HomeEase,Fashion,Running Shoes,887.59,3.4,5,17,2026-07-17,product is okay and works as expected. The running shoes from HomeEase is satisfactory.,Neutral,15089.03
+314,SmartChoice,Fashion,Hoodie,1598.83,3.9,111,27,2026-03-18,nothing special but acceptable. The hoodie from SmartChoice is satisfactory.,Neutral,43168.41
+315,ProLine,Fashion,Running Shoes,325.95,3.6,147,15,2026-06-29,average quality for the price. The running shoes from ProLine is satisfactory.,Neutral,4889.25
+316,UrbanGear,Fashion,Casual Shirt,398.26,4.2,64,20,2026-02-13,better than expected. The casual shirt from UrbanGear is a good choice.,Positive,7965.2
+317,ReadWell,Fashion,Sunglasses,558.31,3.4,81,19,2026-03-07,delivery was normal and packaging was fine. The sunglasses from ReadWell is satisfactory.,Neutral,10607.89
+318,ProLine,Electronics,Power Bank,1898.86,4.2,133,11,2026-01-10,great value for money. The power bank from ProLine is a good choice.,Positive,20887.46
+319,UrbanGear,Fashion,Hoodie,525.56,4.0,22,24,2026-06-24,very useful and easy to use. The hoodie from UrbanGear is a good choice.,Positive,12613.44
+320,UrbanGear,Books,Python Programming Book,199.0,2.4,24,21,2026-03-21,not worth the price. The python programming book from UrbanGear is not recommended.,Negative,4179.0
+321,NovaTech,Electronics,Smart Watch,912.25,3.4,55,15,2026-09-27,nothing special but acceptable. The smart watch from NovaTech is satisfactory.,Neutral,13683.75
+322,ProLine,Electronics,Smart Watch,2199.67,3.6,25,22,2026-07-12,average quality for the price. The smart watch from ProLine is satisfactory.,Neutral,48392.74
+323,UrbanGear,Home & Kitchen,Air Fryer,1110.31,3.7,49,18,2026-03-26,nothing special but acceptable. The air fryer from UrbanGear is satisfactory.,Neutral,19985.58
+324,ReadWell,Books,Data Analytics Book,325.81,3.8,1624,13,2026-05-02,delivery was normal and packaging was fine. The data analytics book from ReadWell is satisfactory.,Neutral,4235.53
+325,HomeEase,Books,Machine Learning Book,682.16,4.6,74,16,2026-08-18,amazing product and reliable. The machine learning book from HomeEase is a good choice.,Positive,10914.56
+326,UrbanGear,Home & Kitchen,Mixer Grinder,353.37,5.0,196,23,2026-08-29,great value for money. The mixer grinder from UrbanGear is a good choice.,Positive,8127.51
+327,SmartChoice,Home & Kitchen,Electric Kettle,940.58,4.5,108,23,2026-08-14,better than expected. The electric kettle from SmartChoice is a good choice.,Positive,21633.34
+328,ReadWell,Books,Business Strategy Book,519.19,3.7,44,21,2026-09-28,nothing special but acceptable. The business strategy book from ReadWell is satisfactory.,Neutral,10902.99
+329,UrbanGear,Books,Python Programming Book,3439.34,3.2,68,31,2026-03-12,nothing special but acceptable. The python programming book from UrbanGear is satisfactory.,Neutral,106619.54
+330,SmartChoice,Fashion,Running Shoes,2253.72,3.2,102,25,2026-07-10,does the basic job. The running shoes from SmartChoice is satisfactory.,Neutral,56343.0
+331,NovaTech,Electronics,USB-C Hub,1947.29,5.0,119,12,2026-02-12,great value for money. The usb-c hub from NovaTech is a good choice.,Positive,23367.48
+332,ReadWell,Home & Kitchen,Electric Kettle,1112.27,4.1,49,23,2026-03-17,better than expected. The electric kettle from ReadWell is a good choice.,Positive,25582.21
+333,UrbanGear,Books,Data Analytics Book,467.85,4.6,248,18,2026-08-19,amazing product and reliable. The data analytics book from UrbanGear is a good choice.,Positive,8421.3
+334,ReadWell,Fashion,Running Shoes,833.51,4.7,65,17,2026-07-22,excellent quality and works perfectly. The running shoes from ReadWell is a good choice.,Positive,14169.67
+335,ReadWell,Fashion,Backpack,1554.33,4.3,52,14,2026-07-11,excellent quality and works perfectly. The backpack from ReadWell is a good choice.,Positive,21760.62
+336,HomeEase,Home & Kitchen,Coffee Maker,709.07,4.9,48,21,2026-06-21,excellent quality and works perfectly. The coffee maker from HomeEase is a good choice.,Positive,14890.47
+337,NovaTech,Home & Kitchen,Air Fryer,1722.09,3.6,99,21,2026-08-30,delivery was normal and packaging was fine. The air fryer from NovaTech is satisfactory.,Neutral,36163.89
+338,ReadWell,Home & Kitchen,Storage Organizer,885.96,3.1,218,21,2026-01-03,nothing special but acceptable. The storage organizer from ReadWell is satisfactory.,Neutral,18605.16
+339,HomeEase,Electronics,Wireless Headphones,1081.96,3.7,119,16,2026-03-18,average quality for the price. The wireless headphones from HomeEase is satisfactory.,Neutral,17311.36
+340,HomeEase,Books,Data Analytics Book,660.97,4.0,463,16,2026-06-04,very useful and easy to use. The data analytics book from HomeEase is a good choice.,Positive,10575.52
+341,UrbanGear,Electronics,Wireless Headphones,1256.94,4.0,94,23,2026-08-23,fast delivery and good packaging. The wireless headphones from UrbanGear is a good choice.,Positive,28909.62
+342,ReadWell,Electronics,Wireless Headphones,1236.9,4.2,52,21,2026-01-09,better than expected. The wireless headphones from ReadWell is a good choice.,Positive,25974.9
+343,HomeEase,Home & Kitchen,Air Fryer,825.66,3.3,201,20,2026-01-01,does the basic job. The air fryer from HomeEase is satisfactory.,Neutral,16513.2
+344,ProLine,Fashion,Backpack,832.26,3.6,60,16,2026-04-06,does the basic job. The backpack from ProLine is satisfactory.,Neutral,13316.16
+345,HomeEase,Electronics,USB-C Hub,1256.28,3.7,139,22,2026-09-27,product is okay and works as expected. The usb-c hub from HomeEase is satisfactory.,Neutral,27638.16
+346,ReadWell,Electronics,Power Bank,1342.63,3.6,149,25,2026-07-18,product is okay and works as expected. The power bank from ReadWell is satisfactory.,Neutral,33565.75
+347,SmartChoice,Fashion,Hoodie,1142.68,5.0,53,16,2026-07-02,excellent quality and works perfectly. The hoodie from SmartChoice is a good choice.,Positive,18282.88
+348,UrbanGear,Electronics,Smart Watch,717.19,3.2,22,22,2026-06-20,product is okay and works as expected. The smart watch from UrbanGear is satisfactory.,Neutral,15778.18
+349,HomeEase,Home & Kitchen,Coffee Maker,1669.19,5.0,60,23,2026-06-23,better than expected. The coffee maker from HomeEase is a good choice.,Positive,38391.37
+350,SmartChoice,Home & Kitchen,Storage Organizer,806.47,3.9,213,20,2026-04-04,does the basic job. The storage organizer from SmartChoice is satisfactory.,Neutral,16129.4
+351,SmartChoice,Home & Kitchen,Coffee Maker,1696.42,4.2,80,19,2026-08-23,amazing product and reliable. The coffee maker from SmartChoice is a good choice.,Positive,32231.98
+352,UrbanGear,Electronics,Smart Watch,1725.16,3.5,10,23,2026-04-13,product is okay and works as expected. The smart watch from UrbanGear is satisfactory.,Neutral,39678.68
+353,HomeEase,Electronics,Smart Watch,823.08,4.5,334,20,2026-07-23,better than expected. The smart watch from HomeEase is a good choice.,Positive,16461.6
+354,NovaTech,Books,Business Strategy Book,2115.59,3.9,13,13,2026-05-27,average quality for the price. The business strategy book from NovaTech is satisfactory.,Neutral,27502.67
+355,SmartChoice,Fashion,Running Shoes,3690.46,3.8,75,22,2026-05-20,delivery was normal and packaging was fine. The running shoes from SmartChoice is satisfactory.,Neutral,81190.12
+356,ReadWell,Electronics,Smart Watch,1288.02,3.5,81,16,2026-08-14,does the basic job. The smart watch from ReadWell is satisfactory.,Neutral,20608.32
+357,UrbanGear,Books,Business Strategy Book,604.71,3.9,43,32,2026-09-12,does the basic job. The business strategy book from UrbanGear is satisfactory.,Neutral,19350.72
+358,HomeEase,Fashion,Sunglasses,573.82,3.0,61,20,2026-08-06,product is okay and works as expected. The sunglasses from HomeEase is satisfactory.,Neutral,11476.4
+359,ProLine,Electronics,Power Bank,949.54,3.0,48,23,2026-05-31,average quality for the price. The power bank from ProLine is satisfactory.,Neutral,21839.42
+360,NovaTech,Fashion,Running Shoes,551.97,2.7,74,27,2026-06-01,delivery was late and packaging was damaged. The running shoes from NovaTech is not recommended.,Negative,14903.19
+361,ProLine,Fashion,Casual Shirt,1033.78,3.4,48,19,2026-03-27,does the basic job. The casual shirt from ProLine is satisfactory.,Neutral,19641.82
+362,ReadWell,Books,Business Strategy Book,536.45,5.0,62,16,2026-06-30,excellent quality and works perfectly. The business strategy book from ReadWell is a good choice.,Positive,8583.2
+363,SmartChoice,Books,Business Strategy Book,278.76,2.9,87,20,2026-01-30,would not recommend. The business strategy book from SmartChoice is not recommended.,Negative,5575.2
+364,HomeEase,Electronics,Power Bank,1252.71,3.6,77,16,2026-03-23,nothing special but acceptable. The power bank from HomeEase is satisfactory.,Neutral,20043.36
+365,ProLine,Electronics,Bluetooth Speaker,2566.6,4.5,50,18,2026-08-13,highly recommended. The bluetooth speaker from ProLine is a good choice.,Positive,46198.8
+366,NovaTech,Electronics,Bluetooth Speaker,504.27,3.8,24,22,2026-07-07,average quality for the price. The bluetooth speaker from NovaTech is satisfactory.,Neutral,11093.94
+367,ProLine,Fashion,Casual Shirt,777.62,3.5,78,21,2026-03-20,product is okay and works as expected. The casual shirt from ProLine is satisfactory.,Neutral,16330.02
+368,HomeEase,Books,Business Strategy Book,1199.5,3.8,67,20,2026-02-09,does the basic job. The business strategy book from HomeEase is satisfactory.,Neutral,23990.0
+369,HomeEase,Home & Kitchen,Mixer Grinder,604.44,4.1,21,16,2026-06-10,fast delivery and good packaging. The mixer grinder from HomeEase is a good choice.,Positive,9671.04
+370,NovaTech,Fashion,Backpack,965.8,3.5,73,13,2026-04-06,product is okay and works as expected. The backpack from NovaTech is satisfactory.,Neutral,12555.4
+371,ReadWell,Books,Machine Learning Book,2049.0,3.3,175,21,2026-03-02,nothing special but acceptable. The machine learning book from ReadWell is satisfactory.,Neutral,43029.0
+372,SmartChoice,Fashion,Hoodie,1188.05,3.1,167,16,2026-04-20,does the basic job. The hoodie from SmartChoice is satisfactory.,Neutral,19008.8
+373,UrbanGear,Fashion,Casual Shirt,2224.97,3.7,89,26,2026-03-11,product is okay and works as expected. The casual shirt from UrbanGear is satisfactory.,Neutral,57849.22
+374,UrbanGear,Electronics,Power Bank,1065.93,4.4,11,17,2026-08-16,highly recommended. The power bank from UrbanGear is a good choice.,Positive,18120.81
+375,SmartChoice,Electronics,Smart Watch,1760.85,4.6,22,18,2026-02-03,great value for money. The smart watch from SmartChoice is a good choice.,Positive,31695.3
+376,UrbanGear,Fashion,Hoodie,689.09,3.7,145,14,2026-07-05,average quality for the price. The hoodie from UrbanGear is satisfactory.,Neutral,9647.26
+377,UrbanGear,Home & Kitchen,Coffee Maker,2109.27,4.8,38,18,2026-03-13,amazing product and reliable. The coffee maker from UrbanGear is a good choice.,Positive,37966.86
+378,NovaTech,Home & Kitchen,Storage Organizer,785.56,4.5,335,17,2026-07-08,great value for money. The storage organizer from NovaTech is a good choice.,Positive,13354.52
+379,UrbanGear,Books,Machine Learning Book,884.68,4.1,29,19,2026-02-14,better than expected. The machine learning book from UrbanGear is a good choice.,Positive,16808.92
+380,ReadWell,Electronics,Smart Watch,1185.64,4.3,67,17,2026-09-03,highly recommended. The smart watch from ReadWell is a good choice.,Positive,20155.88
+381,ProLine,Books,Novel,849.76,3.7,51,20,2026-03-06,product is okay and works as expected. The novel from ProLine is satisfactory.,Neutral,16995.2
+382,ReadWell,Fashion,Running Shoes,2544.06,3.8,104,17,2026-09-22,does the basic job. The running shoes from ReadWell is satisfactory.,Neutral,43249.02
+383,ProLine,Fashion,Backpack,414.2,4.0,377,22,2026-04-04,highly recommended. The backpack from ProLine is a good choice.,Positive,9112.4
+384,ProLine,Home & Kitchen,Storage Organizer,3838.13,2.7,38,16,2026-01-29,would not recommend. The storage organizer from ProLine is not recommended.,Negative,61410.08
+385,UrbanGear,Electronics,USB-C Hub,806.82,3.6,9,20,2026-03-26,delivery was normal and packaging was fine. The usb-c hub from UrbanGear is satisfactory.,Neutral,16136.4
+386,SmartChoice,Home & Kitchen,Electric Kettle,1463.43,5.0,26,19,2026-06-27,very useful and easy to use. The electric kettle from SmartChoice is a good choice.,Positive,27805.17
+387,HomeEase,Fashion,Running Shoes,1840.92,5.0,19,18,2026-05-21,very useful and easy to use. The running shoes from HomeEase is a good choice.,Positive,33136.56
+388,ProLine,Home & Kitchen,Electric Kettle,1242.96,5.0,14,26,2026-02-17,better than expected. The electric kettle from ProLine is a good choice.,Positive,32316.96
+389,ProLine,Home & Kitchen,Mixer Grinder,1822.85,4.0,90,16,2026-03-29,very useful and easy to use. The mixer grinder from ProLine is a good choice.,Positive,29165.6
+390,NovaTech,Fashion,Sunglasses,697.72,4.1,64,19,2026-01-15,amazing product and reliable. The sunglasses from NovaTech is a good choice.,Positive,13256.68
+391,SmartChoice,Electronics,Wireless Headphones,284.27,4.7,26,22,2026-05-16,amazing product and reliable. The wireless headphones from SmartChoice is a good choice.,Positive,6253.94
+392,ReadWell,Home & Kitchen,Mixer Grinder,588.42,2.5,1537,20,2026-01-16,quality could be much better. The mixer grinder from ReadWell is not recommended.,Negative,11768.4
+393,HomeEase,Books,Machine Learning Book,868.45,4.1,112,15,2026-06-04,highly recommended. The machine learning book from HomeEase is a good choice.,Positive,13026.75
+394,SmartChoice,Books,Python Programming Book,1368.93,3.8,207,18,2026-06-02,does the basic job. The python programming book from SmartChoice is satisfactory.,Neutral,24640.74
+395,SmartChoice,Books,Data Analytics Book,1378.47,4.0,65,21,2026-03-22,excellent quality and works perfectly. The data analytics book from SmartChoice is a good choice.,Positive,28947.87
+396,ReadWell,Books,Novel,699.14,3.4,100,16,2026-04-15,does the basic job. The novel from ReadWell is satisfactory.,Neutral,11186.24
+397,UrbanGear,Fashion,Sunglasses,598.86,4.5,172,16,2026-06-13,great value for money. The sunglasses from UrbanGear is a good choice.,Positive,9581.76
+398,UrbanGear,Fashion,Casual Shirt,1256.27,4.4,111,22,2026-07-09,amazing product and reliable. The casual shirt from UrbanGear is a good choice.,Positive,27637.94
+399,UrbanGear,Electronics,Smart Watch,1514.23,4.4,218,24,2026-03-04,fast delivery and good packaging. The smart watch from UrbanGear is a good choice.,Positive,36341.52
+400,UrbanGear,Fashion,Casual Shirt,1426.23,3.9,27,11,2026-02-19,average quality for the price. The casual shirt from UrbanGear is satisfactory.,Neutral,15688.53
+401,ReadWell,Electronics,Smart Watch,580.29,3.8,30,19,2026-08-03,nothing special but acceptable. The smart watch from ReadWell is satisfactory.,Neutral,11025.51
+402,HomeEase,Home & Kitchen,Air Fryer,736.73,3.9,29,23,2026-06-10,nothing special but acceptable. The air fryer from HomeEase is satisfactory.,Neutral,16944.79
+403,ReadWell,Home & Kitchen,Air Fryer,316.55,3.4,30,18,2026-08-28,nothing special but acceptable. The air fryer from ReadWell is satisfactory.,Neutral,5697.9
+404,ReadWell,Books,Business Strategy Book,488.56,3.7,8,15,2026-02-16,product is okay and works as expected. The business strategy book from ReadWell is satisfactory.,Neutral,7328.4
+405,ReadWell,Books,Machine Learning Book,935.75,4.1,259,19,2026-04-21,very useful and easy to use. The machine learning book from ReadWell is a good choice.,Positive,17779.25
+406,NovaTech,Fashion,Running Shoes,384.39,5.0,230,15,2026-09-11,great value for money. The running shoes from NovaTech is a good choice.,Positive,5765.85
+407,ProLine,Books,Business Strategy Book,1226.63,4.2,192,14,2026-02-25,excellent quality and works perfectly. The business strategy book from ProLine is a good choice.,Positive,17172.82
+408,HomeEase,Books,Python Programming Book,5410.92,3.9,11,16,2026-07-26,delivery was normal and packaging was fine. The python programming book from HomeEase is satisfactory.,Neutral,86574.72
+409,ReadWell,Fashion,Running Shoes,640.17,4.0,29,9,2026-04-10,excellent quality and works perfectly. The running shoes from ReadWell is a good choice.,Positive,5761.53
+410,HomeEase,Fashion,Sunglasses,1865.09,3.7,77,24,2026-07-17,product is okay and works as expected. The sunglasses from HomeEase is satisfactory.,Neutral,44762.16
+411,HomeEase,Books,Machine Learning Book,1538.72,3.3,34,17,2026-03-02,nothing special but acceptable. The machine learning book from HomeEase is satisfactory.,Neutral,26158.24
+412,ReadWell,Home & Kitchen,Coffee Maker,738.76,3.6,159,18,2026-06-23,delivery was normal and packaging was fine. The coffee maker from ReadWell is satisfactory.,Neutral,13297.68
+413,UrbanGear,Fashion,Backpack,1160.03,3.8,86,19,2026-09-18,nothing special but acceptable. The backpack from UrbanGear is satisfactory.,Neutral,22040.57
+414,NovaTech,Books,Machine Learning Book,616.22,4.8,168,22,2026-01-20,excellent quality and works perfectly. The machine learning book from NovaTech is a good choice.,Positive,13556.84
+415,ReadWell,Home & Kitchen,Electric Kettle,953.39,4.0,35,23,2026-08-22,better than expected. The electric kettle from ReadWell is a good choice.,Positive,21927.97
+416,ProLine,Home & Kitchen,Mixer Grinder,732.85,3.8,42,29,2026-06-17,average quality for the price. The mixer grinder from ProLine is satisfactory.,Neutral,21252.65
+417,ReadWell,Fashion,Backpack,352.09,2.4,38,17,2026-06-03,quality could be much better. The backpack from ReadWell is not recommended.,Negative,5985.53
+418,ProLine,Fashion,Sunglasses,407.05,3.6,284,15,2026-09-08,nothing special but acceptable. The sunglasses from ProLine is satisfactory.,Neutral,6105.75
+419,NovaTech,Fashion,Casual Shirt,1768.38,3.9,130,20,2026-06-19,delivery was normal and packaging was fine. The casual shirt from NovaTech is satisfactory.,Neutral,35367.6
+420,ProLine,Electronics,Power Bank,448.4,4.1,27,22,2026-01-14,great value for money. The power bank from ProLine is a good choice.,Positive,9864.8
+421,SmartChoice,Books,Business Strategy Book,415.41,5.0,27,25,2026-04-27,amazing product and reliable. The business strategy book from SmartChoice is a good choice.,Positive,10385.25
+422,ReadWell,Electronics,USB-C Hub,1362.87,3.5,56,13,2026-09-26,average quality for the price. The usb-c hub from ReadWell is satisfactory.,Neutral,17717.31
+423,SmartChoice,Books,Python Programming Book,1456.7,3.6,53,19,2026-01-17,average quality for the price. The python programming book from SmartChoice is satisfactory.,Neutral,27677.3
+424,NovaTech,Electronics,Bluetooth Speaker,471.57,5.0,146,30,2026-06-10,fast delivery and good packaging. The bluetooth speaker from NovaTech is a good choice.,Positive,14147.1
+425,ReadWell,Books,Python Programming Book,417.74,4.6,136,13,2026-04-15,highly recommended. The python programming book from ReadWell is a good choice.,Positive,5430.62
+426,ProLine,Books,Machine Learning Book,1435.42,4.3,120,13,2026-02-01,fast delivery and good packaging. The machine learning book from ProLine is a good choice.,Positive,18660.46
+427,UrbanGear,Home & Kitchen,Mixer Grinder,961.6,4.9,19,24,2026-06-16,better than expected. The mixer grinder from UrbanGear is a good choice.,Positive,23078.4
+428,ReadWell,Books,Machine Learning Book,346.72,4.0,85,23,2026-03-30,great value for money. The machine learning book from ReadWell is a good choice.,Positive,7974.56
+429,HomeEase,Books,Machine Learning Book,317.92,3.4,60,22,2026-07-01,nothing special but acceptable. The machine learning book from HomeEase is satisfactory.,Neutral,6994.24
+430,ReadWell,Fashion,Sunglasses,309.3,3.9,83,30,2026-05-07,average quality for the price. The sunglasses from ReadWell is satisfactory.,Neutral,9279.0
+431,HomeEase,Fashion,Sunglasses,396.74,3.5,45,21,2026-06-02,average quality for the price. The sunglasses from HomeEase is satisfactory.,Neutral,8331.54
+432,SmartChoice,Fashion,Backpack,732.07,3.2,85,23,2026-06-12,does the basic job. The backpack from SmartChoice is satisfactory.,Neutral,16837.61
+433,ProLine,Books,Business Strategy Book,2514.29,3.2,29,26,2026-05-28,delivery was normal and packaging was fine. The business strategy book from ProLine is satisfactory.,Neutral,65371.54
+434,SmartChoice,Electronics,USB-C Hub,397.41,4.5,61,22,2026-07-14,better than expected. The usb-c hub from SmartChoice is a good choice.,Positive,8743.02
+435,UrbanGear,Books,Business Strategy Book,522.98,5.0,13,19,2026-01-22,great value for money. The business strategy book from UrbanGear is a good choice.,Positive,9936.62
+436,HomeEase,Fashion,Running Shoes,1014.83,3.8,46,23,2026-05-12,does the basic job. The running shoes from HomeEase is satisfactory.,Neutral,23341.09
+437,UrbanGear,Books,Python Programming Book,213.72,4.9,16,24,2026-05-19,amazing product and reliable. The python programming book from UrbanGear is a good choice.,Positive,5129.28
+438,NovaTech,Fashion,Backpack,756.78,2.9,105,18,2026-05-03,quality could be much better. The backpack from NovaTech is not recommended.,Negative,13622.04
+439,SmartChoice,Home & Kitchen,Coffee Maker,1018.11,3.5,102,22,2026-04-26,nothing special but acceptable. The coffee maker from SmartChoice is satisfactory.,Neutral,22398.42
+440,NovaTech,Home & Kitchen,Coffee Maker,911.27,5.0,55,16,2026-06-19,fast delivery and good packaging. The coffee maker from NovaTech is a good choice.,Positive,14580.32
+441,SmartChoice,Books,Data Analytics Book,483.34,4.2,294,19,2026-03-12,amazing product and reliable. The data analytics book from SmartChoice is a good choice.,Positive,9183.46
+442,UrbanGear,Electronics,USB-C Hub,1134.04,3.1,122,17,2026-09-01,does the basic job. The usb-c hub from UrbanGear is satisfactory.,Neutral,19278.68
+443,HomeEase,Books,Python Programming Book,663.06,4.1,43,19,2026-05-27,great value for money. The python programming book from HomeEase is a good choice.,Positive,12598.14
+444,SmartChoice,Electronics,Wireless Headphones,862.13,3.7,34,18,2026-04-29,nothing special but acceptable. The wireless headphones from SmartChoice is satisfactory.,Neutral,15518.34
+445,ReadWell,Electronics,Bluetooth Speaker,590.11,4.8,275,20,2026-04-01,amazing product and reliable. The bluetooth speaker from ReadWell is a good choice.,Positive,11802.2
+446,ReadWell,Electronics,Power Bank,609.18,3.5,147,20,2026-05-29,average quality for the price. The power bank from ReadWell is satisfactory.,Neutral,12183.6
+447,HomeEase,Electronics,Wireless Headphones,409.58,4.4,67,15,2026-02-24,better than expected. The wireless headphones from HomeEase is a good choice.,Positive,6143.7
+448,ReadWell,Fashion,Hoodie,484.12,3.6,132,28,2026-09-26,nothing special but acceptable. The hoodie from ReadWell is satisfactory.,Neutral,13555.36
+449,ProLine,Books,Python Programming Book,3252.18,2.9,336,16,2026-05-20,disappointed with the purchase. The python programming book from ProLine is not recommended.,Negative,52034.88
+450,HomeEase,Home & Kitchen,Coffee Maker,963.17,3.8,167,23,2026-08-23,average quality for the price. The coffee maker from HomeEase is satisfactory.,Neutral,22152.91
+451,NovaTech,Fashion,Backpack,350.42,3.9,19,17,2026-06-01,delivery was normal and packaging was fine. The backpack from NovaTech is satisfactory.,Neutral,5957.14
+452,ProLine,Home & Kitchen,Air Fryer,1139.97,2.2,81,17,2026-07-27,would not recommend. The air fryer from ProLine is not recommended.,Negative,19379.49
+453,HomeEase,Books,Machine Learning Book,1400.43,4.7,11,18,2026-07-25,excellent quality and works perfectly. The machine learning book from HomeEase is a good choice.,Positive,25207.74
+454,UrbanGear,Electronics,Bluetooth Speaker,1107.84,4.1,40,19,2026-06-15,fast delivery and good packaging. The bluetooth speaker from UrbanGear is a good choice.,Positive,21048.96
+455,HomeEase,Home & Kitchen,Coffee Maker,443.94,3.2,131,18,2026-05-01,does the basic job. The coffee maker from HomeEase is satisfactory.,Neutral,7990.92
+456,HomeEase,Books,Business Strategy Book,426.53,4.7,24,23,2026-01-06,great value for money. The business strategy book from HomeEase is a good choice.,Positive,9810.19
+457,SmartChoice,Fashion,Hoodie,1497.57,3.7,36,20,2026-02-01,average quality for the price. The hoodie from SmartChoice is satisfactory.,Neutral,29951.4
+458,HomeEase,Electronics,Power Bank,2268.64,4.0,29,22,2026-07-27,very useful and easy to use. The power bank from HomeEase is a good choice.,Positive,49910.08
+459,SmartChoice,Fashion,Running Shoes,1181.28,4.8,127,16,2026-07-08,great value for money. The running shoes from SmartChoice is a good choice.,Positive,18900.48
+460,UrbanGear,Home & Kitchen,Air Fryer,338.79,3.7,85,19,2026-03-20,does the basic job. The air fryer from UrbanGear is satisfactory.,Neutral,6437.01
+461,HomeEase,Books,Machine Learning Book,1335.1,3.8,113,22,2026-08-30,does the basic job. The machine learning book from HomeEase is satisfactory.,Neutral,29372.2
+462,SmartChoice,Home & Kitchen,Air Fryer,1602.58,4.0,109,16,2026-02-11,amazing product and reliable. The air fryer from SmartChoice is a good choice.,Positive,25641.28
+463,SmartChoice,Books,Machine Learning Book,626.09,3.2,103,22,2026-02-09,delivery was normal and packaging was fine. The machine learning book from SmartChoice is satisfactory.,Neutral,13773.98
+464,ProLine,Electronics,Wireless Headphones,1493.24,3.9,130,17,2026-04-14,nothing special but acceptable. The wireless headphones from ProLine is satisfactory.,Neutral,25385.08
+465,HomeEase,Home & Kitchen,Air Fryer,1414.45,4.5,49,24,2026-09-24,amazing product and reliable. The air fryer from HomeEase is a good choice.,Positive,33946.8
+466,SmartChoice,Books,Data Analytics Book,859.07,2.9,46,10,2026-09-08,not worth the price. The data analytics book from SmartChoice is not recommended.,Negative,8590.7
+467,ReadWell,Electronics,USB-C Hub,1417.48,4.2,109,20,2026-01-29,amazing product and reliable. The usb-c hub from ReadWell is a good choice.,Positive,28349.6
+468,ProLine,Books,Python Programming Book,639.36,3.6,28,16,2026-08-22,does the basic job. The python programming book from ProLine is satisfactory.,Neutral,10229.76
+469,ReadWell,Electronics,USB-C Hub,1792.48,4.3,132,20,2026-06-07,highly recommended. The usb-c hub from ReadWell is a good choice.,Positive,35849.6
+470,HomeEase,Electronics,Power Bank,370.38,3.7,76,20,2026-04-22,product is okay and works as expected. The power bank from HomeEase is satisfactory.,Neutral,7407.6
+471,ReadWell,Electronics,Wireless Headphones,460.96,3.0,14,22,2026-02-02,delivery was normal and packaging was fine. The wireless headphones from ReadWell is satisfactory.,Neutral,10141.12
+472,ReadWell,Electronics,Wireless Headphones,1855.0,3.6,12,21,2026-05-27,product is okay and works as expected. The wireless headphones from ReadWell is satisfactory.,Neutral,38955.0
+473,UrbanGear,Books,Python Programming Book,813.27,3.5,78,21,2026-07-11,does the basic job. The python programming book from UrbanGear is satisfactory.,Neutral,17078.67
+474,ReadWell,Books,Novel,1247.07,3.7,17,22,2026-02-11,does the basic job. The novel from ReadWell is satisfactory.,Neutral,27435.54
+475,NovaTech,Home & Kitchen,Electric Kettle,481.04,3.3,94,11,2026-07-21,average quality for the price. The electric kettle from NovaTech is satisfactory.,Neutral,5291.44
+476,NovaTech,Home & Kitchen,Air Fryer,871.98,3.8,26,22,2026-06-02,product is okay and works as expected. The air fryer from NovaTech is satisfactory.,Neutral,19183.56
+477,ReadWell,Books,Machine Learning Book,271.07,3.3,14,15,2026-07-14,nothing special but acceptable. The machine learning book from ReadWell is satisfactory.,Neutral,4066.05
+478,ReadWell,Home & Kitchen,Air Fryer,589.86,3.3,24,20,2026-03-21,delivery was normal and packaging was fine. The air fryer from ReadWell is satisfactory.,Neutral,11797.2
+479,SmartChoice,Fashion,Backpack,630.84,3.7,355,21,2026-01-17,product is okay and works as expected. The backpack from SmartChoice is satisfactory.,Neutral,13247.64
+480,NovaTech,Books,Machine Learning Book,2151.01,4.4,21,22,2026-04-16,very useful and easy to use. The machine learning book from NovaTech is a good choice.,Positive,47322.22
+481,ProLine,Electronics,Wireless Headphones,433.87,3.3,184,28,2026-08-17,product is okay and works as expected. The wireless headphones from ProLine is satisfactory.,Neutral,12148.36
+482,SmartChoice,Electronics,Bluetooth Speaker,1073.7,4.3,93,15,2026-07-25,excellent quality and works perfectly. The bluetooth speaker from SmartChoice is a good choice.,Positive,16105.5
+483,ProLine,Books,Python Programming Book,1777.83,4.7,53,20,2026-01-29,very useful and easy to use. The python programming book from ProLine is a good choice.,Positive,35556.6
+484,HomeEase,Home & Kitchen,Mixer Grinder,874.92,4.3,62,18,2026-06-13,very useful and easy to use. The mixer grinder from HomeEase is a good choice.,Positive,15748.56
+485,HomeEase,Fashion,Backpack,1299.05,3.2,65,12,2026-09-24,average quality for the price. The backpack from HomeEase is satisfactory.,Neutral,15588.6
+486,HomeEase,Home & Kitchen,Storage Organizer,803.57,3.8,152,16,2026-02-01,delivery was normal and packaging was fine. The storage organizer from HomeEase is satisfactory.,Neutral,12857.12
+487,ProLine,Home & Kitchen,Storage Organizer,2806.31,4.8,18,22,2026-01-25,fast delivery and good packaging. The storage organizer from ProLine is a good choice.,Positive,61738.82
+488,ProLine,Fashion,Casual Shirt,1409.1,4.1,52,22,2026-08-02,great value for money. The casual shirt from ProLine is a good choice.,Positive,31000.2
+489,HomeEase,Books,Python Programming Book,540.74,3.5,26,11,2026-04-05,does the basic job. The python programming book from HomeEase is satisfactory.,Neutral,5948.14
+490,UrbanGear,Books,Python Programming Book,524.11,4.3,295,21,2026-03-15,great value for money. The python programming book from UrbanGear is a good choice.,Positive,11006.31
+491,ProLine,Books,Data Analytics Book,1245.37,4.2,71,15,2026-08-02,fast delivery and good packaging. The data analytics book from ProLine is a good choice.,Positive,18680.55
+492,UrbanGear,Home & Kitchen,Storage Organizer,1458.46,4.5,161,19,2026-04-15,great value for money. The storage organizer from UrbanGear is a good choice.,Positive,27710.74
+493,ReadWell,Fashion,Running Shoes,1403.27,3.8,194,16,2026-02-17,delivery was normal and packaging was fine. The running shoes from ReadWell is satisfactory.,Neutral,22452.32
+494,HomeEase,Home & Kitchen,Coffee Maker,4183.54,4.1,137,23,2026-01-21,fast delivery and good packaging. The coffee maker from HomeEase is a good choice.,Positive,96221.42
+495,ProLine,Electronics,Bluetooth Speaker,377.02,4.4,36,18,2026-04-22,highly recommended. The bluetooth speaker from ProLine is a good choice.,Positive,6786.36
+496,HomeEase,Books,Python Programming Book,2751.74,3.5,157,18,2026-01-08,delivery was normal and packaging was fine. The python programming book from HomeEase is satisfactory.,Neutral,49531.32
+497,SmartChoice,Home & Kitchen,Air Fryer,914.98,2.7,65,27,2026-09-03,poor quality and stopped working. The air fryer from SmartChoice is not recommended.,Negative,24704.46
+498,SmartChoice,Home & Kitchen,Mixer Grinder,574.83,3.6,282,21,2026-07-23,average quality for the price. The mixer grinder from SmartChoice is satisfactory.,Neutral,12071.43
+499,HomeEase,Home & Kitchen,Mixer Grinder,750.75,3.7,146,23,2026-07-14,delivery was normal and packaging was fine. The mixer grinder from HomeEase is satisfactory.,Neutral,17267.25
+500,SmartChoice,Books,Machine Learning Book,1122.63,3.7,36,16,2026-06-07,delivery was normal and packaging was fine. The machine learning book from SmartChoice is satisfactory.,Neutral,17962.08
+501,ProLine,Fashion,Hoodie,6119.93,4.7,17,29,2026-08-27,fast delivery and good packaging. The hoodie from ProLine is a good choice.,Positive,177477.97
+502,HomeEase,Electronics,Power Bank,381.0,4.0,7,13,2026-07-09,very useful and easy to use. The power bank from HomeEase is a good choice.,Positive,4953.0
+503,NovaTech,Fashion,Casual Shirt,1008.56,5.0,96,21,2026-04-24,better than expected. The casual shirt from NovaTech is a good choice.,Positive,21179.76
+504,HomeEase,Home & Kitchen,Coffee Maker,734.07,4.2,122,18,2026-08-02,better than expected. The coffee maker from HomeEase is a good choice.,Positive,13213.26
+505,UrbanGear,Fashion,Backpack,1224.46,3.3,116,15,2026-04-28,delivery was normal and packaging was fine. The backpack from UrbanGear is satisfactory.,Neutral,18366.9
+506,UrbanGear,Books,Machine Learning Book,495.34,4.5,167,19,2026-06-22,fast delivery and good packaging. The machine learning book from UrbanGear is a good choice.,Positive,9411.46
+507,SmartChoice,Fashion,Casual Shirt,567.46,3.1,53,19,2026-08-24,does the basic job. The casual shirt from SmartChoice is satisfactory.,Neutral,10781.74
+508,UrbanGear,Home & Kitchen,Electric Kettle,736.48,3.0,37,20,2026-09-08,average quality for the price. The electric kettle from UrbanGear is satisfactory.,Neutral,14729.6
+509,SmartChoice,Home & Kitchen,Mixer Grinder,321.02,2.7,433,22,2026-09-26,poor quality and stopped working. The mixer grinder from SmartChoice is not recommended.,Negative,7062.44
+510,SmartChoice,Electronics,Wireless Headphones,1159.38,2.2,66,25,2026-01-04,poor quality and stopped working. The wireless headphones from SmartChoice is not recommended.,Negative,28984.5
+511,SmartChoice,Books,Python Programming Book,465.62,4.0,26,17,2026-02-04,very useful and easy to use. The python programming book from SmartChoice is a good choice.,Positive,7915.54
+512,UrbanGear,Home & Kitchen,Coffee Maker,1062.52,3.3,127,18,2026-08-22,nothing special but acceptable. The coffee maker from UrbanGear is satisfactory.,Neutral,19125.36
+513,ProLine,Fashion,Running Shoes,922.65,3.0,49,23,2026-09-05,nothing special but acceptable. The running shoes from ProLine is satisfactory.,Neutral,21220.95
+514,NovaTech,Books,Data Analytics Book,871.1,5.0,21,21,2026-07-30,better than expected. The data analytics book from NovaTech is a good choice.,Positive,18293.1
+515,ProLine,Electronics,Wireless Headphones,1080.1,5.0,96,24,2026-05-21,highly recommended. The wireless headphones from ProLine is a good choice.,Positive,25922.4
+516,ProLine,Fashion,Running Shoes,1159.04,4.6,35,18,2026-08-09,amazing product and reliable. The running shoes from ProLine is a good choice.,Positive,20862.72
+517,NovaTech,Home & Kitchen,Coffee Maker,535.06,3.9,229,26,2026-03-18,nothing special but acceptable. The coffee maker from NovaTech is satisfactory.,Neutral,13911.56
+518,ProLine,Home & Kitchen,Air Fryer,668.58,4.5,7,31,2026-05-10,better than expected. The air fryer from ProLine is a good choice.,Positive,20725.98
+519,ReadWell,Fashion,Hoodie,606.7,4.0,221,20,2026-07-11,excellent quality and works perfectly. The hoodie from ReadWell is a good choice.,Positive,12134.0
+520,ProLine,Books,Novel,653.71,3.5,20,17,2026-04-26,average quality for the price. The novel from ProLine is satisfactory.,Neutral,11113.07
+521,SmartChoice,Fashion,Running Shoes,607.47,2.5,163,22,2026-01-17,would not recommend. The running shoes from SmartChoice is not recommended.,Negative,13364.34
+522,ReadWell,Electronics,Power Bank,2061.24,4.3,21,19,2026-09-01,fast delivery and good packaging. The power bank from ReadWell is a good choice.,Positive,39163.56
+523,SmartChoice,Electronics,Wireless Headphones,1328.24,4.3,32,23,2026-02-12,very useful and easy to use. The wireless headphones from SmartChoice is a good choice.,Positive,30549.52
+524,SmartChoice,Books,Novel,949.27,4.4,146,23,2026-06-19,amazing product and reliable. The novel from SmartChoice is a good choice.,Positive,21833.21
+525,NovaTech,Electronics,USB-C Hub,1174.67,3.3,271,14,2026-04-19,average quality for the price. The usb-c hub from NovaTech is satisfactory.,Neutral,16445.38
+526,NovaTech,Books,Business Strategy Book,1416.62,4.1,105,20,2026-05-24,excellent quality and works perfectly. The business strategy book from NovaTech is a good choice.,Positive,28332.4
+527,HomeEase,Electronics,Bluetooth Speaker,1018.73,4.5,23,19,2026-04-17,excellent quality and works perfectly. The bluetooth speaker from HomeEase is a good choice.,Positive,19355.87
+528,NovaTech,Home & Kitchen,Storage Organizer,1165.67,3.3,34,16,2026-03-25,delivery was normal and packaging was fine. The storage organizer from NovaTech is satisfactory.,Neutral,18650.72
+529,ReadWell,Home & Kitchen,Mixer Grinder,707.38,3.0,67,15,2026-06-19,nothing special but acceptable. The mixer grinder from ReadWell is satisfactory.,Neutral,10610.7
+530,SmartChoice,Books,Python Programming Book,1617.88,3.3,304,23,2026-09-14,product is okay and works as expected. The python programming book from SmartChoice is satisfactory.,Neutral,37211.24
+531,NovaTech,Fashion,Running Shoes,442.59,4.5,79,17,2026-04-29,fast delivery and good packaging. The running shoes from NovaTech is a good choice.,Positive,7524.03
+532,ProLine,Electronics,Smart Watch,1289.5,4.3,25,15,2026-07-23,amazing product and reliable. The smart watch from ProLine is a good choice.,Positive,19342.5
+533,SmartChoice,Fashion,Running Shoes,1561.98,3.1,115,22,2026-08-19,delivery was normal and packaging was fine. The running shoes from SmartChoice is satisfactory.,Neutral,34363.56
+534,HomeEase,Books,Python Programming Book,1351.61,4.1,38,17,2026-07-12,better than expected. The python programming book from HomeEase is a good choice.,Positive,22977.37
+535,SmartChoice,Books,Python Programming Book,1129.65,2.9,73,17,2026-07-14,quality could be much better. The python programming book from SmartChoice is not recommended.,Negative,19204.05
+536,HomeEase,Electronics,USB-C Hub,758.36,3.7,138,16,2026-02-07,average quality for the price. The usb-c hub from HomeEase is satisfactory.,Neutral,12133.76
+537,UrbanGear,Electronics,Smart Watch,1471.9,4.3,24,23,2026-03-20,fast delivery and good packaging. The smart watch from UrbanGear is a good choice.,Positive,33853.7
+538,HomeEase,Books,Business Strategy Book,767.96,4.6,17,15,2026-02-16,excellent quality and works perfectly. The business strategy book from HomeEase is a good choice.,Positive,11519.4
+539,ReadWell,Electronics,Smart Watch,1348.49,4.8,98,20,2026-05-19,great value for money. The smart watch from ReadWell is a good choice.,Positive,26969.8
+540,NovaTech,Electronics,Bluetooth Speaker,1829.01,4.1,189,22,2026-08-09,very useful and easy to use. The bluetooth speaker from NovaTech is a good choice.,Positive,40238.22
+541,ProLine,Books,Machine Learning Book,528.7,4.9,109,17,2026-07-28,better than expected. The machine learning book from ProLine is a good choice.,Positive,8987.9
+542,NovaTech,Electronics,Wireless Headphones,362.44,4.3,161,20,2026-02-17,great value for money. The wireless headphones from NovaTech is a good choice.,Positive,7248.8
+543,NovaTech,Fashion,Casual Shirt,3205.42,3.6,23,28,2026-07-31,delivery was normal and packaging was fine. The casual shirt from NovaTech is satisfactory.,Neutral,89751.76
+544,SmartChoice,Books,Data Analytics Book,2357.78,5.0,66,22,2026-05-05,better than expected. The data analytics book from SmartChoice is a good choice.,Positive,51871.16
+545,UrbanGear,Home & Kitchen,Storage Organizer,555.45,3.6,228,14,2026-05-18,average quality for the price. The storage organizer from UrbanGear is satisfactory.,Neutral,7776.3
+546,ReadWell,Fashion,Hoodie,2690.96,5.0,39,24,2026-02-02,very useful and easy to use. The hoodie from ReadWell is a good choice.,Positive,64583.04
+547,HomeEase,Home & Kitchen,Storage Organizer,2471.55,4.5,100,30,2026-06-03,fast delivery and good packaging. The storage organizer from HomeEase is a good choice.,Positive,74146.5
+548,HomeEase,Books,Data Analytics Book,1216.26,2.3,49,14,2026-05-07,delivery was late and packaging was damaged. The data analytics book from HomeEase is not recommended.,Negative,17027.64
+549,ProLine,Books,Machine Learning Book,1156.91,3.8,385,17,2026-08-23,average quality for the price. The machine learning book from ProLine is satisfactory.,Neutral,19667.47
+550,HomeEase,Electronics,Bluetooth Speaker,2502.03,3.9,42,12,2026-07-22,product is okay and works as expected. The bluetooth speaker from HomeEase is satisfactory.,Neutral,30024.36
+551,ReadWell,Fashion,Sunglasses,431.6,4.3,125,16,2026-06-18,amazing product and reliable. The sunglasses from ReadWell is a good choice.,Positive,6905.6
+552,ReadWell,Books,Business Strategy Book,533.57,4.1,151,24,2026-03-11,amazing product and reliable. The business strategy book from ReadWell is a good choice.,Positive,12805.68
+553,ProLine,Fashion,Hoodie,643.37,3.8,54,11,2026-09-03,average quality for the price. The hoodie from ProLine is satisfactory.,Neutral,7077.07
+554,ReadWell,Fashion,Backpack,553.97,3.8,14,16,2026-05-30,delivery was normal and packaging was fine. The backpack from ReadWell is satisfactory.,Neutral,8863.52
+555,UrbanGear,Books,Machine Learning Book,761.95,3.7,62,16,2026-07-12,delivery was normal and packaging was fine. The machine learning book from UrbanGear is satisfactory.,Neutral,12191.2
+556,HomeEase,Fashion,Casual Shirt,1229.09,3.1,23,15,2026-04-13,product is okay and works as expected. The casual shirt from HomeEase is satisfactory.,Neutral,18436.35
+557,NovaTech,Home & Kitchen,Mixer Grinder,545.61,3.1,42,15,2026-04-18,does the basic job. The mixer grinder from NovaTech is satisfactory.,Neutral,8184.15
+558,SmartChoice,Books,Business Strategy Book,1012.65,3.6,26,24,2026-07-29,product is okay and works as expected. The business strategy book from SmartChoice is satisfactory.,Neutral,24303.6
+559,SmartChoice,Books,Python Programming Book,881.79,3.3,118,23,2026-05-04,delivery was normal and packaging was fine. The python programming book from SmartChoice is satisfactory.,Neutral,20281.17
+560,SmartChoice,Fashion,Backpack,281.91,4.0,985,14,2026-07-13,fast delivery and good packaging. The backpack from SmartChoice is a good choice.,Positive,3946.74
+561,ProLine,Electronics,Power Bank,845.85,2.7,61,16,2026-07-25,disappointed with the purchase. The power bank from ProLine is not recommended.,Negative,13533.6
+562,NovaTech,Books,Machine Learning Book,523.69,3.8,35,18,2026-02-13,delivery was normal and packaging was fine. The machine learning book from NovaTech is satisfactory.,Neutral,9426.42
+563,SmartChoice,Electronics,Bluetooth Speaker,2961.81,4.4,107,16,2026-07-01,highly recommended. The bluetooth speaker from SmartChoice is a good choice.,Positive,47388.96
+564,NovaTech,Home & Kitchen,Mixer Grinder,1143.75,3.7,155,15,2026-07-24,nothing special but acceptable. The mixer grinder from NovaTech is satisfactory.,Neutral,17156.25
+565,NovaTech,Fashion,Casual Shirt,869.86,5.0,232,17,2026-02-20,excellent quality and works perfectly. The casual shirt from NovaTech is a good choice.,Positive,14787.62
+566,ProLine,Fashion,Backpack,864.45,2.8,26,18,2026-09-23,received a faulty product. The backpack from ProLine is not recommended.,Negative,15560.1
+567,HomeEase,Home & Kitchen,Storage Organizer,768.31,3.7,447,19,2026-08-26,does the basic job. The storage organizer from HomeEase is satisfactory.,Neutral,14597.89
+568,NovaTech,Home & Kitchen,Electric Kettle,2589.62,4.1,14,17,2026-02-23,fast delivery and good packaging. The electric kettle from NovaTech is a good choice.,Positive,44023.54
+569,NovaTech,Fashion,Casual Shirt,1036.18,3.2,37,15,2026-03-14,product is okay and works as expected. The casual shirt from NovaTech is satisfactory.,Neutral,15542.7
+570,HomeEase,Fashion,Hoodie,522.26,3.5,153,20,2026-04-16,does the basic job. The hoodie from HomeEase is satisfactory.,Neutral,10445.2
+571,ReadWell,Books,Business Strategy Book,1986.38,3.6,32,20,2026-08-13,product is okay and works as expected. The business strategy book from ReadWell is satisfactory.,Neutral,39727.6
+572,NovaTech,Books,Business Strategy Book,774.76,3.6,108,21,2026-01-23,delivery was normal and packaging was fine. The business strategy book from NovaTech is satisfactory.,Neutral,16269.96
+573,HomeEase,Electronics,Wireless Headphones,1173.79,3.7,28,23,2026-03-26,product is okay and works as expected. The wireless headphones from HomeEase is satisfactory.,Neutral,26997.17
+574,UrbanGear,Home & Kitchen,Mixer Grinder,505.75,3.5,105,18,2026-03-23,nothing special but acceptable. The mixer grinder from UrbanGear is satisfactory.,Neutral,9103.5
+575,ReadWell,Fashion,Sunglasses,882.01,3.3,26,19,2026-04-29,does the basic job. The sunglasses from ReadWell is satisfactory.,Neutral,16758.19
+576,UrbanGear,Books,Python Programming Book,583.09,3.5,105,19,2026-07-22,does the basic job. The python programming book from UrbanGear is satisfactory.,Neutral,11078.71
+577,UrbanGear,Electronics,USB-C Hub,639.27,4.8,45,17,2026-08-08,fast delivery and good packaging. The usb-c hub from UrbanGear is a good choice.,Positive,10867.59
+578,SmartChoice,Books,Data Analytics Book,1154.4,4.4,82,19,2026-04-16,very useful and easy to use. The data analytics book from SmartChoice is a good choice.,Positive,21933.6
+579,ProLine,Fashion,Running Shoes,232.23,5.0,50,15,2026-04-06,excellent quality and works perfectly. The running shoes from ProLine is a good choice.,Positive,3483.45
+580,UrbanGear,Fashion,Hoodie,1084.81,3.5,92,20,2026-02-28,does the basic job. The hoodie from UrbanGear is satisfactory.,Neutral,21696.2
+581,ProLine,Fashion,Casual Shirt,686.68,3.2,42,22,2026-07-18,delivery was normal and packaging was fine. The casual shirt from ProLine is satisfactory.,Neutral,15106.96
+582,NovaTech,Books,Machine Learning Book,2037.63,3.4,142,21,2026-06-30,delivery was normal and packaging was fine. The machine learning book from NovaTech is satisfactory.,Neutral,42790.23
+583,UrbanGear,Books,Machine Learning Book,802.94,4.3,73,23,2026-06-02,amazing product and reliable. The machine learning book from UrbanGear is a good choice.,Positive,18467.62
+584,HomeEase,Electronics,Bluetooth Speaker,2089.57,3.8,62,27,2026-05-03,product is okay and works as expected. The bluetooth speaker from HomeEase is satisfactory.,Neutral,56418.39
+585,UrbanGear,Fashion,Running Shoes,2510.34,4.5,159,22,2026-03-14,great value for money. The running shoes from UrbanGear is a good choice.,Positive,55227.48
+586,ProLine,Books,Novel,669.34,4.5,290,17,2026-07-16,very useful and easy to use. The novel from ProLine is a good choice.,Positive,11378.78
+587,ReadWell,Books,Python Programming Book,310.05,3.6,180,27,2026-03-30,nothing special but acceptable. The python programming book from ReadWell is satisfactory.,Neutral,8371.35
+588,HomeEase,Home & Kitchen,Storage Organizer,664.59,4.3,55,11,2026-04-06,very useful and easy to use. The storage organizer from HomeEase is a good choice.,Positive,7310.49
+589,ProLine,Fashion,Casual Shirt,1111.02,3.2,72,16,2026-07-03,product is okay and works as expected. The casual shirt from ProLine is satisfactory.,Neutral,17776.32
+590,UrbanGear,Electronics,Power Bank,199.0,4.7,145,22,2026-07-16,very useful and easy to use. The power bank from UrbanGear is a good choice.,Positive,4378.0
+591,SmartChoice,Books,Novel,485.7,5.0,169,16,2026-08-01,fast delivery and good packaging. The novel from SmartChoice is a good choice.,Positive,7771.2
+592,UrbanGear,Books,Novel,771.73,3.4,36,14,2026-01-16,product is okay and works as expected. The novel from UrbanGear is satisfactory.,Neutral,10804.22
+593,NovaTech,Home & Kitchen,Electric Kettle,1993.0,3.7,94,19,2026-04-26,delivery was normal and packaging was fine. The electric kettle from NovaTech is satisfactory.,Neutral,37867.0
+594,ReadWell,Fashion,Backpack,621.21,2.7,62,20,2026-09-11,quality could be much better. The backpack from ReadWell is not recommended.,Negative,12424.2
+595,NovaTech,Electronics,USB-C Hub,1627.47,4.0,235,24,2026-07-07,great value for money. The usb-c hub from NovaTech is a good choice.,Positive,39059.28
+596,ProLine,Electronics,Power Bank,519.2,4.4,89,18,2026-08-06,very useful and easy to use. The power bank from ProLine is a good choice.,Positive,9345.6
+597,HomeEase,Electronics,Bluetooth Speaker,831.0,4.0,21,15,2026-01-17,amazing product and reliable. The bluetooth speaker from HomeEase is a good choice.,Positive,12465.0
+598,HomeEase,Books,Business Strategy Book,4315.57,4.9,121,19,2026-02-14,amazing product and reliable. The business strategy book from HomeEase is a good choice.,Positive,81995.83
+599,UrbanGear,Books,Data Analytics Book,1064.15,3.1,93,18,2026-06-29,average quality for the price. The data analytics book from UrbanGear is satisfactory.,Neutral,19154.7
+600,ProLine,Books,Python Programming Book,813.61,3.6,440,15,2026-04-16,average quality for the price. The python programming book from ProLine is satisfactory.,Neutral,12204.15
+601,ProLine,Home & Kitchen,Coffee Maker,1234.37,2.9,196,23,2026-09-30,delivery was late and packaging was damaged. The coffee maker from ProLine is not recommended.,Negative,28390.51
+602,ProLine,Fashion,Sunglasses,662.59,3.1,16,23,2026-06-15,average quality for the price. The sunglasses from ProLine is satisfactory.,Neutral,15239.57
+603,ProLine,Fashion,Hoodie,335.23,2.1,42,17,2026-09-21,delivery was late and packaging was damaged. The hoodie from ProLine is not recommended.,Negative,5698.91
+604,ReadWell,Electronics,Bluetooth Speaker,1288.23,3.6,211,18,2026-05-22,product is okay and works as expected. The bluetooth speaker from ReadWell is satisfactory.,Neutral,23188.14
+605,UrbanGear,Home & Kitchen,Air Fryer,1018.59,4.2,40,19,2026-06-14,very useful and easy to use. The air fryer from UrbanGear is a good choice.,Positive,19353.21
+606,ReadWell,Home & Kitchen,Storage Organizer,920.38,4.2,24,22,2026-05-18,very useful and easy to use. The storage organizer from ReadWell is a good choice.,Positive,20248.36
+607,ReadWell,Books,Novel,481.36,3.8,122,21,2026-02-17,product is okay and works as expected. The novel from ReadWell is satisfactory.,Neutral,10108.56
+608,SmartChoice,Books,Machine Learning Book,996.68,4.4,8,18,2026-07-08,great value for money. The machine learning book from SmartChoice is a good choice.,Positive,17940.24
+609,HomeEase,Books,Novel,1186.74,4.7,16,13,2026-01-02,better than expected. The novel from HomeEase is a good choice.,Positive,15427.62
+610,SmartChoice,Electronics,Power Bank,567.51,5.0,28,21,2026-07-03,highly recommended. The power bank from SmartChoice is a good choice.,Positive,11917.71
+611,ReadWell,Electronics,USB-C Hub,411.99,3.6,91,9,2026-08-08,average quality for the price. The usb-c hub from ReadWell is satisfactory.,Neutral,3707.91
+612,HomeEase,Home & Kitchen,Storage Organizer,724.9,2.9,91,19,2026-05-26,delivery was late and packaging was damaged. The storage organizer from HomeEase is not recommended.,Negative,13773.1
+613,ProLine,Fashion,Sunglasses,1041.92,4.4,18,22,2026-09-06,very useful and easy to use. The sunglasses from ProLine is a good choice.,Positive,22922.24
+614,NovaTech,Fashion,Running Shoes,2721.75,3.4,410,14,2026-08-24,product is okay and works as expected. The running shoes from NovaTech is satisfactory.,Neutral,38104.5
+615,UrbanGear,Electronics,Wireless Headphones,1964.0,4.0,9,26,2026-08-22,fast delivery and good packaging. The wireless headphones from UrbanGear is a good choice.,Positive,51064.0
+616,UrbanGear,Electronics,Power Bank,435.38,3.9,225,19,2026-06-04,average quality for the price. The power bank from UrbanGear is satisfactory.,Neutral,8272.22
+617,NovaTech,Home & Kitchen,Electric Kettle,276.08,4.4,60,22,2026-07-04,highly recommended. The electric kettle from NovaTech is a good choice.,Positive,6073.76
+618,HomeEase,Fashion,Running Shoes,1182.21,4.6,119,28,2026-03-26,highly recommended. The running shoes from HomeEase is a good choice.,Positive,33101.88
+619,SmartChoice,Electronics,Power Bank,568.45,4.5,347,21,2026-04-30,great value for money. The power bank from SmartChoice is a good choice.,Positive,11937.45
+620,SmartChoice,Books,Data Analytics Book,1804.96,3.1,118,16,2026-01-01,product is okay and works as expected. The data analytics book from SmartChoice is satisfactory.,Neutral,28879.36
+621,NovaTech,Home & Kitchen,Storage Organizer,422.94,3.7,49,12,2026-04-26,average quality for the price. The storage organizer from NovaTech is satisfactory.,Neutral,5075.28
+622,NovaTech,Books,Data Analytics Book,410.03,4.6,349,14,2026-06-25,highly recommended. The data analytics book from NovaTech is a good choice.,Positive,5740.42
+623,SmartChoice,Electronics,Power Bank,1238.53,3.7,58,10,2026-09-02,average quality for the price. The power bank from SmartChoice is satisfactory.,Neutral,12385.3
+624,ReadWell,Electronics,Bluetooth Speaker,1455.59,2.7,249,16,2026-02-22,poor quality and stopped working. The bluetooth speaker from ReadWell is not recommended.,Negative,23289.44
+625,HomeEase,Electronics,Smart Watch,292.11,4.9,69,16,2026-03-12,great value for money. The smart watch from HomeEase is a good choice.,Positive,4673.76
+626,SmartChoice,Books,Python Programming Book,1200.32,4.2,51,17,2026-03-15,highly recommended. The python programming book from SmartChoice is a good choice.,Positive,20405.44
+627,ProLine,Electronics,USB-C Hub,843.86,3.5,102,15,2026-03-26,product is okay and works as expected. The usb-c hub from ProLine is satisfactory.,Neutral,12657.9
+628,SmartChoice,Books,Business Strategy Book,1221.61,3.8,27,17,2026-03-19,average quality for the price. The business strategy book from SmartChoice is satisfactory.,Neutral,20767.37
+629,SmartChoice,Books,Machine Learning Book,199.0,3.7,23,19,2026-04-22,does the basic job. The machine learning book from SmartChoice is satisfactory.,Neutral,3781.0
+630,UrbanGear,Electronics,Wireless Headphones,311.71,4.8,91,22,2026-03-05,amazing product and reliable. The wireless headphones from UrbanGear is a good choice.,Positive,6857.62
+631,ReadWell,Books,Business Strategy Book,667.8,3.4,21,21,2026-03-13,delivery was normal and packaging was fine. The business strategy book from ReadWell is satisfactory.,Neutral,14023.8
+632,SmartChoice,Home & Kitchen,Electric Kettle,288.21,3.8,43,22,2026-05-08,product is okay and works as expected. The electric kettle from SmartChoice is satisfactory.,Neutral,6340.62
+633,SmartChoice,Fashion,Running Shoes,382.32,4.4,24,18,2026-04-16,great value for money. The running shoes from SmartChoice is a good choice.,Positive,6881.76
+634,HomeEase,Home & Kitchen,Storage Organizer,551.87,4.5,111,21,2026-01-28,highly recommended. The storage organizer from HomeEase is a good choice.,Positive,11589.27
+635,ReadWell,Home & Kitchen,Storage Organizer,439.22,3.7,30,21,2026-05-04,product is okay and works as expected. The storage organizer from ReadWell is satisfactory.,Neutral,9223.62
+636,NovaTech,Books,Machine Learning Book,2137.24,4.5,415,24,2026-01-07,better than expected. The machine learning book from NovaTech is a good choice.,Positive,51293.76
+637,UrbanGear,Fashion,Hoodie,3965.82,3.5,14,17,2026-08-04,does the basic job. The hoodie from UrbanGear is satisfactory.,Neutral,67418.94
+638,SmartChoice,Fashion,Sunglasses,265.17,3.7,103,27,2026-08-30,average quality for the price. The sunglasses from SmartChoice is satisfactory.,Neutral,7159.59
+639,ProLine,Electronics,Wireless Headphones,1039.9,4.7,25,23,2026-01-08,excellent quality and works perfectly. The wireless headphones from ProLine is a good choice.,Positive,23917.7
+640,NovaTech,Fashion,Backpack,579.61,4.5,104,17,2026-07-23,excellent quality and works perfectly. The backpack from NovaTech is a good choice.,Positive,9853.37
+641,ReadWell,Fashion,Sunglasses,2660.02,4.9,139,18,2026-07-25,fast delivery and good packaging. The sunglasses from ReadWell is a good choice.,Positive,47880.36
+642,ProLine,Electronics,USB-C Hub,2865.69,3.4,137,21,2026-03-20,nothing special but acceptable. The usb-c hub from ProLine is satisfactory.,Neutral,60179.49
+643,HomeEase,Fashion,Running Shoes,2193.48,4.4,88,24,2026-09-19,excellent quality and works perfectly. The running shoes from HomeEase is a good choice.,Positive,52643.52
+644,ProLine,Home & Kitchen,Air Fryer,473.56,3.3,232,19,2026-07-20,delivery was normal and packaging was fine. The air fryer from ProLine is satisfactory.,Neutral,8997.64
+645,SmartChoice,Electronics,Smart Watch,685.91,2.6,22,20,2026-05-03,disappointed with the purchase. The smart watch from SmartChoice is not recommended.,Negative,13718.2
+646,NovaTech,Electronics,Bluetooth Speaker,3117.6,4.6,19,31,2026-03-01,fast delivery and good packaging. The bluetooth speaker from NovaTech is a good choice.,Positive,96645.6
+647,ProLine,Books,Machine Learning Book,1014.81,4.5,67,11,2026-06-08,excellent quality and works perfectly. The machine learning book from ProLine is a good choice.,Positive,11162.91
+648,NovaTech,Home & Kitchen,Coffee Maker,5807.22,2.8,192,26,2026-03-12,received a faulty product. The coffee maker from NovaTech is not recommended.,Negative,150987.72
+649,ReadWell,Electronics,Bluetooth Speaker,1199.0,3.4,83,23,2026-09-25,delivery was normal and packaging was fine. The bluetooth speaker from ReadWell is satisfactory.,Neutral,27577.0
+650,HomeEase,Fashion,Backpack,269.01,4.1,77,16,2026-05-18,very useful and easy to use. The backpack from HomeEase is a good choice.,Positive,4304.16
+651,HomeEase,Electronics,Wireless Headphones,507.6,3.4,218,20,2026-05-20,does the basic job. The wireless headphones from HomeEase is satisfactory.,Neutral,10152.0
+652,SmartChoice,Electronics,Smart Watch,2289.33,3.3,215,21,2026-02-09,nothing special but acceptable. The smart watch from SmartChoice is satisfactory.,Neutral,48075.93
+653,ProLine,Books,Novel,508.51,3.7,84,13,2026-01-29,delivery was normal and packaging was fine. The novel from ProLine is satisfactory.,Neutral,6610.63
+654,UrbanGear,Books,Machine Learning Book,1370.06,4.5,137,13,2026-03-22,great value for money. The machine learning book from UrbanGear is a good choice.,Positive,17810.78
+655,ProLine,Fashion,Running Shoes,496.12,4.8,214,29,2026-03-01,highly recommended. The running shoes from ProLine is a good choice.,Positive,14387.48
+656,NovaTech,Home & Kitchen,Mixer Grinder,982.09,3.3,68,20,2026-01-07,product is okay and works as expected. The mixer grinder from NovaTech is satisfactory.,Neutral,19641.8
+657,ReadWell,Home & Kitchen,Coffee Maker,326.17,4.9,47,16,2026-07-16,great value for money. The coffee maker from ReadWell is a good choice.,Positive,5218.72
+658,NovaTech,Home & Kitchen,Air Fryer,784.32,4.8,5,20,2026-08-03,better than expected. The air fryer from NovaTech is a good choice.,Positive,15686.4
+659,UrbanGear,Home & Kitchen,Electric Kettle,410.69,3.2,356,21,2026-06-13,does the basic job. The electric kettle from UrbanGear is satisfactory.,Neutral,8624.49
+660,ProLine,Fashion,Running Shoes,486.78,4.1,26,13,2026-03-03,great value for money. The running shoes from ProLine is a good choice.,Positive,6328.14
+661,UrbanGear,Electronics,Bluetooth Speaker,1840.75,4.6,113,19,2026-09-22,amazing product and reliable. The bluetooth speaker from UrbanGear is a good choice.,Positive,34974.25
+662,NovaTech,Electronics,Power Bank,1138.51,3.1,104,18,2026-05-25,does the basic job. The power bank from NovaTech is satisfactory.,Neutral,20493.18
+663,NovaTech,Fashion,Hoodie,711.55,4.2,63,20,2026-08-22,better than expected. The hoodie from NovaTech is a good choice.,Positive,14231.0
+664,UrbanGear,Electronics,Smart Watch,475.28,4.0,27,19,2026-06-05,great value for money. The smart watch from UrbanGear is a good choice.,Positive,9030.32
+665,HomeEase,Home & Kitchen,Storage Organizer,1844.41,4.2,66,21,2026-09-10,better than expected. The storage organizer from HomeEase is a good choice.,Positive,38732.61
+666,UrbanGear,Home & Kitchen,Mixer Grinder,613.62,4.5,14,25,2026-01-04,very useful and easy to use. The mixer grinder from UrbanGear is a good choice.,Positive,15340.5
+667,UrbanGear,Books,Data Analytics Book,2529.53,4.3,270,19,2026-06-27,better than expected. The data analytics book from UrbanGear is a good choice.,Positive,48061.07
+668,NovaTech,Electronics,Smart Watch,376.16,4.2,401,17,2026-07-12,amazing product and reliable. The smart watch from NovaTech is a good choice.,Positive,6394.72
+669,UrbanGear,Fashion,Running Shoes,461.86,4.7,25,22,2026-05-02,better than expected. The running shoes from UrbanGear is a good choice.,Positive,10160.92
+670,NovaTech,Books,Novel,2593.85,4.3,58,16,2026-05-24,very useful and easy to use. The novel from NovaTech is a good choice.,Positive,41501.6
+671,UrbanGear,Electronics,Wireless Headphones,1188.92,4.0,36,17,2026-09-24,amazing product and reliable. The wireless headphones from UrbanGear is a good choice.,Positive,20211.64
+672,ReadWell,Books,Business Strategy Book,808.14,4.2,25,17,2026-02-13,highly recommended. The business strategy book from ReadWell is a good choice.,Positive,13738.38
+673,UrbanGear,Electronics,USB-C Hub,280.44,3.0,32,21,2026-02-08,does the basic job. The usb-c hub from UrbanGear is satisfactory.,Neutral,5889.24
+674,SmartChoice,Electronics,Power Bank,3203.54,4.2,76,14,2026-05-02,very useful and easy to use. The power bank from SmartChoice is a good choice.,Positive,44849.56
+675,HomeEase,Fashion,Hoodie,2311.14,5.0,12,13,2026-07-21,amazing product and reliable. The hoodie from HomeEase is a good choice.,Positive,30044.82
+676,ReadWell,Fashion,Hoodie,462.56,4.2,32,15,2026-04-30,great value for money. The hoodie from ReadWell is a good choice.,Positive,6938.4
+677,UrbanGear,Electronics,Bluetooth Speaker,3676.37,4.7,82,17,2026-02-25,amazing product and reliable. The bluetooth speaker from UrbanGear is a good choice.,Positive,62498.29
+678,UrbanGear,Home & Kitchen,Coffee Maker,1754.49,3.4,72,18,2026-08-27,does the basic job. The coffee maker from UrbanGear is satisfactory.,Neutral,31580.82
+679,NovaTech,Fashion,Casual Shirt,857.75,3.9,479,22,2026-07-03,nothing special but acceptable. The casual shirt from NovaTech is satisfactory.,Neutral,18870.5
+680,HomeEase,Home & Kitchen,Storage Organizer,365.59,5.0,44,32,2026-05-16,fast delivery and good packaging. The storage organizer from HomeEase is a good choice.,Positive,11698.88
+681,UrbanGear,Electronics,Wireless Headphones,1194.85,2.3,131,21,2026-06-05,would not recommend. The wireless headphones from UrbanGear is not recommended.,Negative,25091.85
+682,HomeEase,Electronics,Bluetooth Speaker,976.93,3.5,44,18,2026-02-16,average quality for the price. The bluetooth speaker from HomeEase is satisfactory.,Neutral,17584.74
+683,ReadWell,Home & Kitchen,Electric Kettle,629.43,3.8,154,17,2026-01-26,nothing special but acceptable. The electric kettle from ReadWell is satisfactory.,Neutral,10700.31
+684,UrbanGear,Fashion,Hoodie,1030.16,3.5,61,23,2026-07-27,product is okay and works as expected. The hoodie from UrbanGear is satisfactory.,Neutral,23693.68
+685,SmartChoice,Books,Machine Learning Book,283.72,4.6,85,24,2026-05-08,better than expected. The machine learning book from SmartChoice is a good choice.,Positive,6809.28
+686,NovaTech,Electronics,Power Bank,2213.52,4.2,256,18,2026-03-13,amazing product and reliable. The power bank from NovaTech is a good choice.,Positive,39843.36
+687,NovaTech,Electronics,Wireless Headphones,3942.13,4.5,118,20,2026-04-24,amazing product and reliable. The wireless headphones from NovaTech is a good choice.,Positive,78842.6
+688,ReadWell,Home & Kitchen,Air Fryer,392.6,4.0,36,23,2026-02-13,great value for money. The air fryer from ReadWell is a good choice.,Positive,9029.8
+689,NovaTech,Fashion,Running Shoes,1414.32,3.2,59,14,2026-04-12,product is okay and works as expected. The running shoes from NovaTech is satisfactory.,Neutral,19800.48
+690,NovaTech,Books,Python Programming Book,533.34,3.6,19,10,2026-03-04,delivery was normal and packaging was fine. The python programming book from NovaTech is satisfactory.,Neutral,5333.4
+691,NovaTech,Electronics,Power Bank,199.0,5.0,198,14,2026-08-10,very useful and easy to use. The power bank from NovaTech is a good choice.,Positive,2786.0
+692,NovaTech,Books,Novel,704.72,5.0,444,25,2026-08-07,fast delivery and good packaging. The novel from NovaTech is a good choice.,Positive,17618.0
+693,UrbanGear,Home & Kitchen,Electric Kettle,1008.61,3.0,44,16,2026-05-21,average quality for the price. The electric kettle from UrbanGear is satisfactory.,Neutral,16137.76
+694,UrbanGear,Fashion,Casual Shirt,980.58,3.8,61,13,2026-05-06,product is okay and works as expected. The casual shirt from UrbanGear is satisfactory.,Neutral,12747.54
+695,ReadWell,Fashion,Casual Shirt,564.72,3.1,177,11,2026-09-03,nothing special but acceptable. The casual shirt from ReadWell is satisfactory.,Neutral,6211.92
+696,HomeEase,Electronics,Wireless Headphones,229.0,4.6,266,18,2026-03-12,fast delivery and good packaging. The wireless headphones from HomeEase is a good choice.,Positive,4122.0
+697,SmartChoice,Books,Python Programming Book,711.62,3.9,24,20,2026-05-08,nothing special but acceptable. The python programming book from SmartChoice is satisfactory.,Neutral,14232.4
+698,SmartChoice,Electronics,Power Bank,643.87,3.3,13,15,2026-09-03,delivery was normal and packaging was fine. The power bank from SmartChoice is satisfactory.,Neutral,9658.05
+699,ProLine,Books,Business Strategy Book,1242.55,3.6,111,19,2026-06-14,nothing special but acceptable. The business strategy book from ProLine is satisfactory.,Neutral,23608.45
+700,UrbanGear,Books,Business Strategy Book,3166.07,3.8,46,17,2026-06-13,product is okay and works as expected. The business strategy book from UrbanGear is satisfactory.,Neutral,53823.19
+701,HomeEase,Home & Kitchen,Coffee Maker,926.85,3.9,40,17,2026-08-30,product is okay and works as expected. The coffee maker from HomeEase is satisfactory.,Neutral,15756.45
+702,UrbanGear,Fashion,Sunglasses,368.81,5.0,11,24,2026-02-21,very useful and easy to use. The sunglasses from UrbanGear is a good choice.,Positive,8851.44
+703,HomeEase,Home & Kitchen,Air Fryer,536.62,4.2,239,18,2026-01-29,better than expected. The air fryer from HomeEase is a good choice.,Positive,9659.16
+704,ReadWell,Home & Kitchen,Mixer Grinder,213.04,3.3,340,13,2026-03-30,delivery was normal and packaging was fine. The mixer grinder from ReadWell is satisfactory.,Neutral,2769.52
+705,ProLine,Home & Kitchen,Air Fryer,616.61,3.1,54,18,2026-07-03,delivery was normal and packaging was fine. The air fryer from ProLine is satisfactory.,Neutral,11098.98
+706,ProLine,Electronics,Smart Watch,3451.4,4.9,427,14,2026-03-14,better than expected. The smart watch from ProLine is a good choice.,Positive,48319.6
+707,ProLine,Home & Kitchen,Storage Organizer,3514.64,4.9,131,23,2026-03-31,great value for money. The storage organizer from ProLine is a good choice.,Positive,80836.72
+708,NovaTech,Books,Data Analytics Book,530.77,4.5,22,20,2026-04-30,excellent quality and works perfectly. The data analytics book from NovaTech is a good choice.,Positive,10615.4
+709,ProLine,Home & Kitchen,Coffee Maker,1406.68,4.9,21,16,2026-01-01,fast delivery and good packaging. The coffee maker from ProLine is a good choice.,Positive,22506.88
+710,UrbanGear,Fashion,Sunglasses,879.28,4.1,821,16,2026-03-08,amazing product and reliable. The sunglasses from UrbanGear is a good choice.,Positive,14068.48
+711,HomeEase,Fashion,Backpack,272.15,3.9,126,14,2026-01-12,product is okay and works as expected. The backpack from HomeEase is satisfactory.,Neutral,3810.1
+712,SmartChoice,Home & Kitchen,Mixer Grinder,974.96,4.1,31,20,2026-02-26,very useful and easy to use. The mixer grinder from SmartChoice is a good choice.,Positive,19499.2
+713,HomeEase,Fashion,Running Shoes,1677.98,3.9,83,25,2026-02-21,does the basic job. The running shoes from HomeEase is satisfactory.,Neutral,41949.5
+714,HomeEase,Fashion,Hoodie,1809.31,3.7,247,20,2026-03-22,average quality for the price. The hoodie from HomeEase is satisfactory.,Neutral,36186.2
+715,SmartChoice,Books,Novel,524.07,3.5,29,20,2026-03-31,delivery was normal and packaging was fine. The novel from SmartChoice is satisfactory.,Neutral,10481.4
+716,SmartChoice,Fashion,Backpack,450.04,5.0,19,12,2026-03-31,better than expected. The backpack from SmartChoice is a good choice.,Positive,5400.48
+717,SmartChoice,Books,Business Strategy Book,942.66,3.1,33,18,2026-03-07,delivery was normal and packaging was fine. The business strategy book from SmartChoice is satisfactory.,Neutral,16967.88
+718,SmartChoice,Home & Kitchen,Coffee Maker,495.52,4.6,122,27,2026-07-20,better than expected. The coffee maker from SmartChoice is a good choice.,Positive,13379.04
+719,ProLine,Electronics,Bluetooth Speaker,4022.91,2.9,234,22,2026-04-24,delivery was late and packaging was damaged. The bluetooth speaker from ProLine is not recommended.,Negative,88504.02
+720,UrbanGear,Electronics,Power Bank,1896.15,4.1,53,16,2026-02-09,great value for money. The power bank from UrbanGear is a good choice.,Positive,30338.4
+721,HomeEase,Home & Kitchen,Electric Kettle,3411.04,3.9,145,22,2026-02-15,average quality for the price. The electric kettle from HomeEase is satisfactory.,Neutral,75042.88
+722,NovaTech,Fashion,Casual Shirt,538.24,3.0,44,27,2026-04-18,delivery was normal and packaging was fine. The casual shirt from NovaTech is satisfactory.,Neutral,14532.48
+723,HomeEase,Home & Kitchen,Coffee Maker,1411.98,4.4,24,21,2026-02-25,great value for money. The coffee maker from HomeEase is a good choice.,Positive,29651.58
+724,ReadWell,Electronics,Wireless Headphones,748.22,3.0,94,19,2026-08-03,does the basic job. The wireless headphones from ReadWell is satisfactory.,Neutral,14216.18
+725,ReadWell,Home & Kitchen,Storage Organizer,3090.05,3.3,28,18,2026-06-29,does the basic job. The storage organizer from ReadWell is satisfactory.,Neutral,55620.9
+726,ReadWell,Books,Data Analytics Book,1478.84,4.3,35,26,2026-04-26,amazing product and reliable. The data analytics book from ReadWell is a good choice.,Positive,38449.84
+727,NovaTech,Home & Kitchen,Storage Organizer,1183.7,4.1,47,29,2026-01-18,amazing product and reliable. The storage organizer from NovaTech is a good choice.,Positive,34327.3
+728,HomeEase,Fashion,Running Shoes,1144.74,3.6,55,19,2026-02-23,delivery was normal and packaging was fine. The running shoes from HomeEase is satisfactory.,Neutral,21750.06
+729,UrbanGear,Electronics,Smart Watch,531.26,3.2,86,16,2026-03-24,does the basic job. The smart watch from UrbanGear is satisfactory.,Neutral,8500.16
+730,NovaTech,Electronics,USB-C Hub,1033.47,4.2,115,14,2026-09-05,great value for money. The usb-c hub from NovaTech is a good choice.,Positive,14468.58
+731,SmartChoice,Electronics,Power Bank,991.76,4.1,67,21,2026-08-11,very useful and easy to use. The power bank from SmartChoice is a good choice.,Positive,20826.96
+732,NovaTech,Home & Kitchen,Coffee Maker,231.87,3.7,32,17,2026-04-16,delivery was normal and packaging was fine. The coffee maker from NovaTech is satisfactory.,Neutral,3941.79
+733,SmartChoice,Home & Kitchen,Storage Organizer,1447.79,4.3,57,24,2026-05-16,better than expected. The storage organizer from SmartChoice is a good choice.,Positive,34746.96
+734,UrbanGear,Fashion,Hoodie,1121.63,4.6,159,21,2026-01-26,excellent quality and works perfectly. The hoodie from UrbanGear is a good choice.,Positive,23554.23
+735,ProLine,Books,Machine Learning Book,862.94,3.9,71,19,2026-03-20,does the basic job. The machine learning book from ProLine is satisfactory.,Neutral,16395.86
+736,NovaTech,Electronics,Smart Watch,816.26,3.2,44,24,2026-02-14,does the basic job. The smart watch from NovaTech is satisfactory.,Neutral,19590.24
+737,ReadWell,Fashion,Sunglasses,1331.96,3.3,800,18,2026-02-19,average quality for the price. The sunglasses from ReadWell is satisfactory.,Neutral,23975.28
+738,UrbanGear,Electronics,Bluetooth Speaker,1069.02,4.2,154,13,2026-05-30,highly recommended. The bluetooth speaker from UrbanGear is a good choice.,Positive,13897.26
+739,NovaTech,Electronics,Power Bank,1986.68,4.6,159,22,2026-07-23,great value for money. The power bank from NovaTech is a good choice.,Positive,43706.96
+740,SmartChoice,Books,Novel,733.32,4.5,53,21,2026-02-16,great value for money. The novel from SmartChoice is a good choice.,Positive,15399.72
+741,HomeEase,Books,Python Programming Book,496.1,3.4,57,23,2026-07-09,does the basic job. The python programming book from HomeEase is satisfactory.,Neutral,11410.3
+742,NovaTech,Home & Kitchen,Storage Organizer,1099.21,4.2,69,17,2026-08-14,great value for money. The storage organizer from NovaTech is a good choice.,Positive,18686.57
+743,UrbanGear,Books,Business Strategy Book,1080.36,2.5,183,19,2026-05-18,would not recommend. The business strategy book from UrbanGear is not recommended.,Negative,20526.84
+744,SmartChoice,Electronics,Bluetooth Speaker,812.08,3.8,59,21,2026-02-13,product is okay and works as expected. The bluetooth speaker from SmartChoice is satisfactory.,Neutral,17053.68
+745,ReadWell,Fashion,Sunglasses,310.34,2.7,35,23,2026-04-27,would not recommend. The sunglasses from ReadWell is not recommended.,Negative,7137.82
+746,ProLine,Electronics,Power Bank,1314.45,3.1,6,16,2026-09-01,does the basic job. The power bank from ProLine is satisfactory.,Neutral,21031.2
+747,HomeEase,Home & Kitchen,Storage Organizer,242.35,4.0,147,17,2026-07-22,excellent quality and works perfectly. The storage organizer from HomeEase is a good choice.,Positive,4119.95
+748,ProLine,Electronics,USB-C Hub,831.36,3.7,17,15,2026-03-17,nothing special but acceptable. The usb-c hub from ProLine is satisfactory.,Neutral,12470.4
+749,UrbanGear,Electronics,Power Bank,565.58,4.2,91,18,2026-04-19,very useful and easy to use. The power bank from UrbanGear is a good choice.,Positive,10180.44
+750,NovaTech,Home & Kitchen,Air Fryer,1003.89,2.5,79,17,2026-02-10,disappointed with the purchase. The air fryer from NovaTech is not recommended.,Negative,17066.13
+751,SmartChoice,Books,Python Programming Book,614.95,4.1,233,17,2026-05-13,very useful and easy to use. The python programming book from SmartChoice is a good choice.,Positive,10454.15
+752,NovaTech,Fashion,Running Shoes,672.53,4.0,513,22,2026-07-23,fast delivery and good packaging. The running shoes from NovaTech is a good choice.,Positive,14795.66
+753,ProLine,Fashion,Hoodie,1042.25,3.9,25,15,2026-01-07,does the basic job. The hoodie from ProLine is satisfactory.,Neutral,15633.75
+754,ReadWell,Books,Data Analytics Book,2099.96,4.6,40,15,2026-03-17,very useful and easy to use. The data analytics book from ReadWell is a good choice.,Positive,31499.4
+755,ProLine,Electronics,Wireless Headphones,284.63,4.2,10,19,2026-02-21,amazing product and reliable. The wireless headphones from ProLine is a good choice.,Positive,5407.97
+756,HomeEase,Fashion,Sunglasses,405.01,3.8,48,16,2026-05-16,does the basic job. The sunglasses from HomeEase is satisfactory.,Neutral,6480.16
+757,ProLine,Books,Novel,1217.11,3.5,91,13,2026-08-31,nothing special but acceptable. The novel from ProLine is satisfactory.,Neutral,15822.43
+758,HomeEase,Electronics,Bluetooth Speaker,506.23,4.0,245,12,2026-03-15,fast delivery and good packaging. The bluetooth speaker from HomeEase is a good choice.,Positive,6074.76
+759,ReadWell,Books,Data Analytics Book,1317.38,3.6,86,25,2026-05-02,delivery was normal and packaging was fine. The data analytics book from ReadWell is satisfactory.,Neutral,32934.5
+760,HomeEase,Electronics,Power Bank,769.67,3.3,24,17,2026-01-11,delivery was normal and packaging was fine. The power bank from HomeEase is satisfactory.,Neutral,13084.39
+761,HomeEase,Fashion,Hoodie,407.96,4.0,27,16,2026-09-09,great value for money. The hoodie from HomeEase is a good choice.,Positive,6527.36
+762,UrbanGear,Electronics,Bluetooth Speaker,1256.7,4.3,150,21,2026-08-15,great value for money. The bluetooth speaker from UrbanGear is a good choice.,Positive,26390.7
+763,SmartChoice,Fashion,Hoodie,515.78,4.0,18,17,2026-02-15,fast delivery and good packaging. The hoodie from SmartChoice is a good choice.,Positive,8768.26
+764,UrbanGear,Home & Kitchen,Storage Organizer,280.58,3.6,20,28,2026-09-06,does the basic job. The storage organizer from UrbanGear is satisfactory.,Neutral,7856.24
+765,ProLine,Fashion,Running Shoes,693.99,4.1,63,23,2026-03-23,amazing product and reliable. The running shoes from ProLine is a good choice.,Positive,15961.77
+766,SmartChoice,Electronics,Smart Watch,1013.35,3.1,108,21,2026-07-26,nothing special but acceptable. The smart watch from SmartChoice is satisfactory.,Neutral,21280.35
+767,ProLine,Home & Kitchen,Mixer Grinder,788.99,3.6,187,17,2026-03-30,product is okay and works as expected. The mixer grinder from ProLine is satisfactory.,Neutral,13412.83
+768,NovaTech,Home & Kitchen,Air Fryer,356.9,4.7,97,17,2026-01-17,very useful and easy to use. The air fryer from NovaTech is a good choice.,Positive,6067.3
+769,HomeEase,Books,Data Analytics Book,603.7,3.4,177,20,2026-05-21,average quality for the price. The data analytics book from HomeEase is satisfactory.,Neutral,12074.0
+770,ProLine,Fashion,Casual Shirt,368.99,4.6,41,15,2026-03-05,fast delivery and good packaging. The casual shirt from ProLine is a good choice.,Positive,5534.85
+771,HomeEase,Electronics,Bluetooth Speaker,639.93,4.2,243,17,2026-08-17,fast delivery and good packaging. The bluetooth speaker from HomeEase is a good choice.,Positive,10878.81
+772,ProLine,Home & Kitchen,Storage Organizer,438.23,3.0,120,17,2026-06-29,nothing special but acceptable. The storage organizer from ProLine is satisfactory.,Neutral,7449.91
+773,HomeEase,Fashion,Backpack,670.91,3.4,66,13,2026-05-26,product is okay and works as expected. The backpack from HomeEase is satisfactory.,Neutral,8721.83
+774,NovaTech,Electronics,Power Bank,782.31,4.1,348,25,2026-04-20,very useful and easy to use. The power bank from NovaTech is a good choice.,Positive,19557.75
+775,SmartChoice,Home & Kitchen,Air Fryer,364.58,4.0,22,22,2026-05-18,very useful and easy to use. The air fryer from SmartChoice is a good choice.,Positive,8020.76
+776,NovaTech,Books,Machine Learning Book,344.6,4.5,85,9,2026-01-05,amazing product and reliable. The machine learning book from NovaTech is a good choice.,Positive,3101.4
+777,SmartChoice,Books,Python Programming Book,332.33,3.8,90,18,2026-01-05,average quality for the price. The python programming book from SmartChoice is satisfactory.,Neutral,5981.94
+778,ProLine,Home & Kitchen,Electric Kettle,1008.78,3.9,114,19,2026-05-21,delivery was normal and packaging was fine. The electric kettle from ProLine is satisfactory.,Neutral,19166.82
+779,HomeEase,Books,Novel,987.7,4.5,133,17,2026-05-10,fast delivery and good packaging. The novel from HomeEase is a good choice.,Positive,16790.9
+780,HomeEase,Home & Kitchen,Storage Organizer,1314.31,3.6,181,21,2026-07-23,nothing special but acceptable. The storage organizer from HomeEase is satisfactory.,Neutral,27600.51
+781,ProLine,Electronics,Wireless Headphones,1189.71,4.1,38,18,2026-07-11,highly recommended. The wireless headphones from ProLine is a good choice.,Positive,21414.78
+782,SmartChoice,Fashion,Hoodie,827.04,4.9,48,17,2026-09-04,excellent quality and works perfectly. The hoodie from SmartChoice is a good choice.,Positive,14059.68
+783,HomeEase,Electronics,Smart Watch,1317.16,3.4,16,16,2026-05-22,delivery was normal and packaging was fine. The smart watch from HomeEase is satisfactory.,Neutral,21074.56
+784,UrbanGear,Fashion,Hoodie,1037.37,2.9,60,29,2026-09-22,not worth the price. The hoodie from UrbanGear is not recommended.,Negative,30083.73
+785,ProLine,Home & Kitchen,Coffee Maker,1668.42,3.9,426,16,2026-06-13,does the basic job. The coffee maker from ProLine is satisfactory.,Neutral,26694.72
+786,SmartChoice,Home & Kitchen,Coffee Maker,1041.22,3.7,47,21,2026-06-01,does the basic job. The coffee maker from SmartChoice is satisfactory.,Neutral,21865.62
+787,ReadWell,Fashion,Casual Shirt,418.14,4.0,130,22,2026-01-19,fast delivery and good packaging. The casual shirt from ReadWell is a good choice.,Positive,9199.08
+788,SmartChoice,Home & Kitchen,Electric Kettle,2429.92,3.9,98,17,2026-09-01,average quality for the price. The electric kettle from SmartChoice is satisfactory.,Neutral,41308.64
+789,HomeEase,Fashion,Sunglasses,717.13,3.4,97,18,2026-04-03,average quality for the price. The sunglasses from HomeEase is satisfactory.,Neutral,12908.34
+790,ReadWell,Fashion,Running Shoes,2002.27,3.6,166,25,2026-05-13,average quality for the price. The running shoes from ReadWell is satisfactory.,Neutral,50056.75
+791,SmartChoice,Home & Kitchen,Electric Kettle,1276.47,4.2,50,14,2026-04-24,excellent quality and works perfectly. The electric kettle from SmartChoice is a good choice.,Positive,17870.58
+792,SmartChoice,Fashion,Backpack,391.91,5.0,117,15,2026-06-07,amazing product and reliable. The backpack from SmartChoice is a good choice.,Positive,5878.65
+793,HomeEase,Books,Business Strategy Book,847.24,3.7,203,21,2026-05-31,delivery was normal and packaging was fine. The business strategy book from HomeEase is satisfactory.,Neutral,17792.04
+794,ReadWell,Books,Data Analytics Book,1015.94,3.9,143,16,2026-02-06,product is okay and works as expected. The data analytics book from ReadWell is satisfactory.,Neutral,16255.04
+795,ProLine,Books,Python Programming Book,606.1,4.1,91,20,2026-07-15,excellent quality and works perfectly. The python programming book from ProLine is a good choice.,Positive,12122.0
+796,NovaTech,Fashion,Casual Shirt,263.52,3.6,22,22,2026-03-12,average quality for the price. The casual shirt from NovaTech is satisfactory.,Neutral,5797.44
+797,ReadWell,Home & Kitchen,Electric Kettle,1302.01,3.2,260,19,2026-08-23,nothing special but acceptable. The electric kettle from ReadWell is satisfactory.,Neutral,24738.19
+798,SmartChoice,Home & Kitchen,Electric Kettle,2614.41,4.1,8,15,2026-02-11,very useful and easy to use. The electric kettle from SmartChoice is a good choice.,Positive,39216.15
+799,SmartChoice,Books,Business Strategy Book,3142.06,3.4,12,20,2026-06-10,average quality for the price. The business strategy book from SmartChoice is satisfactory.,Neutral,62841.2
+800,ReadWell,Electronics,Wireless Headphones,662.53,2.6,68,22,2026-04-18,delivery was late and packaging was damaged. The wireless headphones from ReadWell is not recommended.,Negative,14575.66
+801,UrbanGear,Home & Kitchen,Mixer Grinder,233.18,3.7,344,19,2026-02-15,does the basic job. The mixer grinder from UrbanGear is satisfactory.,Neutral,4430.42
+802,ReadWell,Home & Kitchen,Mixer Grinder,1137.76,3.9,106,20,2026-07-26,does the basic job. The mixer grinder from ReadWell is satisfactory.,Neutral,22755.2
+803,ReadWell,Books,Novel,199.0,3.5,40,15,2026-01-20,product is okay and works as expected. The novel from ReadWell is satisfactory.,Neutral,2985.0
+804,NovaTech,Home & Kitchen,Electric Kettle,1358.39,3.3,81,8,2026-09-29,delivery was normal and packaging was fine. The electric kettle from NovaTech is satisfactory.,Neutral,10867.12
+805,SmartChoice,Home & Kitchen,Coffee Maker,854.91,3.5,41,18,2026-05-08,product is okay and works as expected. The coffee maker from SmartChoice is satisfactory.,Neutral,15388.38
+806,HomeEase,Home & Kitchen,Electric Kettle,1415.03,5.0,16,20,2026-02-22,very useful and easy to use. The electric kettle from HomeEase is a good choice.,Positive,28300.6
+807,ProLine,Books,Machine Learning Book,578.99,3.7,30,20,2026-03-27,delivery was normal and packaging was fine. The machine learning book from ProLine is satisfactory.,Neutral,11579.8
+808,HomeEase,Electronics,Wireless Headphones,760.16,4.5,16,18,2026-08-22,great value for money. The wireless headphones from HomeEase is a good choice.,Positive,13682.88
+809,SmartChoice,Fashion,Casual Shirt,531.82,4.5,111,10,2026-06-25,very useful and easy to use. The casual shirt from SmartChoice is a good choice.,Positive,5318.2
+810,UrbanGear,Books,Business Strategy Book,779.31,4.0,143,20,2026-07-26,very useful and easy to use. The business strategy book from UrbanGear is a good choice.,Positive,15586.2
+811,UrbanGear,Electronics,Bluetooth Speaker,1649.91,3.6,134,12,2026-04-19,average quality for the price. The bluetooth speaker from UrbanGear is satisfactory.,Neutral,19798.92
+812,ProLine,Electronics,USB-C Hub,5607.84,3.8,98,20,2026-03-05,average quality for the price. The usb-c hub from ProLine is satisfactory.,Neutral,112156.8
+813,ReadWell,Fashion,Running Shoes,1213.87,4.0,24,20,2026-05-11,highly recommended. The running shoes from ReadWell is a good choice.,Positive,24277.4
+814,NovaTech,Electronics,USB-C Hub,1029.19,4.5,52,21,2026-02-25,highly recommended. The usb-c hub from NovaTech is a good choice.,Positive,21612.99
+815,SmartChoice,Electronics,Wireless Headphones,472.38,3.5,80,21,2026-08-02,product is okay and works as expected. The wireless headphones from SmartChoice is satisfactory.,Neutral,9919.98
+816,NovaTech,Books,Novel,1091.82,4.3,32,19,2026-05-10,better than expected. The novel from NovaTech is a good choice.,Positive,20744.58
+817,UrbanGear,Books,Python Programming Book,673.53,4.0,46,15,2026-01-05,highly recommended. The python programming book from UrbanGear is a good choice.,Positive,10102.95
+818,SmartChoice,Fashion,Casual Shirt,244.09,4.3,33,18,2026-09-24,excellent quality and works perfectly. The casual shirt from SmartChoice is a good choice.,Positive,4393.62
+819,ProLine,Fashion,Sunglasses,2110.44,3.8,157,17,2026-08-03,average quality for the price. The sunglasses from ProLine is satisfactory.,Neutral,35877.48
+820,SmartChoice,Electronics,USB-C Hub,947.92,3.2,276,27,2026-03-02,nothing special but acceptable. The usb-c hub from SmartChoice is satisfactory.,Neutral,25593.84
+821,NovaTech,Fashion,Running Shoes,2008.18,3.2,120,22,2026-04-12,does the basic job. The running shoes from NovaTech is satisfactory.,Neutral,44179.96
+822,ProLine,Home & Kitchen,Electric Kettle,613.37,2.9,30,21,2026-07-03,not worth the price. The electric kettle from ProLine is not recommended.,Negative,12880.77
+823,UrbanGear,Books,Business Strategy Book,864.09,4.1,49,25,2026-09-12,excellent quality and works perfectly. The business strategy book from UrbanGear is a good choice.,Positive,21602.25
+824,HomeEase,Home & Kitchen,Storage Organizer,2173.67,4.6,30,18,2026-01-02,very useful and easy to use. The storage organizer from HomeEase is a good choice.,Positive,39126.06
+825,NovaTech,Electronics,Wireless Headphones,2595.83,3.7,52,14,2026-09-10,nothing special but acceptable. The wireless headphones from NovaTech is satisfactory.,Neutral,36341.62
+826,ProLine,Home & Kitchen,Coffee Maker,263.46,3.5,58,20,2026-02-21,product is okay and works as expected. The coffee maker from ProLine is satisfactory.,Neutral,5269.2
+827,ReadWell,Fashion,Backpack,1099.25,3.2,27,22,2026-05-16,delivery was normal and packaging was fine. The backpack from ReadWell is satisfactory.,Neutral,24183.5
+828,NovaTech,Books,Data Analytics Book,2897.39,3.7,66,21,2026-01-21,average quality for the price. The data analytics book from NovaTech is satisfactory.,Neutral,60845.19
+829,SmartChoice,Fashion,Hoodie,837.45,3.6,63,19,2026-08-07,delivery was normal and packaging was fine. The hoodie from SmartChoice is satisfactory.,Neutral,15911.55
+830,NovaTech,Electronics,Wireless Headphones,1121.1,4.3,343,18,2026-03-12,excellent quality and works perfectly. The wireless headphones from NovaTech is a good choice.,Positive,20179.8
+831,HomeEase,Home & Kitchen,Electric Kettle,1158.45,3.8,39,24,2026-05-18,does the basic job. The electric kettle from HomeEase is satisfactory.,Neutral,27802.8
+832,HomeEase,Electronics,Smart Watch,1054.36,4.0,31,18,2026-02-28,very useful and easy to use. The smart watch from HomeEase is a good choice.,Positive,18978.48
+833,ReadWell,Books,Novel,1267.3,3.6,34,16,2026-07-17,delivery was normal and packaging was fine. The novel from ReadWell is satisfactory.,Neutral,20276.8
+834,SmartChoice,Books,Novel,950.61,3.6,147,15,2026-02-27,average quality for the price. The novel from SmartChoice is satisfactory.,Neutral,14259.15
+835,UrbanGear,Home & Kitchen,Coffee Maker,1708.79,3.4,14,14,2026-08-02,product is okay and works as expected. The coffee maker from UrbanGear is satisfactory.,Neutral,23923.06
+836,SmartChoice,Books,Machine Learning Book,810.77,3.8,109,18,2026-04-03,does the basic job. The machine learning book from SmartChoice is satisfactory.,Neutral,14593.86
+837,ProLine,Books,Business Strategy Book,1078.49,3.6,28,8,2026-03-08,product is okay and works as expected. The business strategy book from ProLine is satisfactory.,Neutral,8627.92
+838,NovaTech,Books,Novel,615.36,3.6,95,19,2026-08-14,does the basic job. The novel from NovaTech is satisfactory.,Neutral,11691.84
+839,HomeEase,Electronics,Wireless Headphones,686.49,3.9,99,18,2026-01-07,delivery was normal and packaging was fine. The wireless headphones from HomeEase is satisfactory.,Neutral,12356.82
+840,ProLine,Home & Kitchen,Electric Kettle,1068.17,2.3,40,17,2026-02-18,quality could be much better. The electric kettle from ProLine is not recommended.,Negative,18158.89
+841,ReadWell,Books,Python Programming Book,199.0,4.3,85,16,2026-07-17,great value for money. The python programming book from ReadWell is a good choice.,Positive,3184.0
+842,ProLine,Home & Kitchen,Mixer Grinder,443.08,4.0,35,12,2026-01-06,excellent quality and works perfectly. The mixer grinder from ProLine is a good choice.,Positive,5316.96
+843,ReadWell,Home & Kitchen,Mixer Grinder,1240.83,2.0,28,12,2026-09-11,would not recommend. The mixer grinder from ReadWell is not recommended.,Negative,14889.96
+844,ReadWell,Home & Kitchen,Coffee Maker,432.88,4.4,10,26,2026-05-04,great value for money. The coffee maker from ReadWell is a good choice.,Positive,11254.88
+845,NovaTech,Fashion,Hoodie,927.01,4.3,426,16,2026-04-25,better than expected. The hoodie from NovaTech is a good choice.,Positive,14832.16
+846,UrbanGear,Books,Novel,658.03,2.3,155,24,2026-08-24,poor quality and stopped working. The novel from UrbanGear is not recommended.,Negative,15792.72
+847,ReadWell,Books,Machine Learning Book,368.59,4.2,432,20,2026-09-13,excellent quality and works perfectly. The machine learning book from ReadWell is a good choice.,Positive,7371.8
+848,NovaTech,Books,Business Strategy Book,1182.28,3.5,110,17,2026-01-10,does the basic job. The business strategy book from NovaTech is satisfactory.,Neutral,20098.76
+849,ReadWell,Electronics,Power Bank,2287.47,3.7,285,20,2026-01-01,product is okay and works as expected. The power bank from ReadWell is satisfactory.,Neutral,45749.4
+850,ProLine,Electronics,USB-C Hub,855.38,3.5,134,15,2026-09-18,delivery was normal and packaging was fine. The usb-c hub from ProLine is satisfactory.,Neutral,12830.7
+851,HomeEase,Home & Kitchen,Storage Organizer,1001.43,5.0,109,20,2026-01-28,great value for money. The storage organizer from HomeEase is a good choice.,Positive,20028.6
+852,HomeEase,Home & Kitchen,Storage Organizer,866.97,4.0,22,25,2026-08-31,better than expected. The storage organizer from HomeEase is a good choice.,Positive,21674.25
+853,NovaTech,Fashion,Casual Shirt,522.67,4.8,60,18,2026-04-24,excellent quality and works perfectly. The casual shirt from NovaTech is a good choice.,Positive,9408.06
+854,HomeEase,Electronics,Smart Watch,505.4,4.4,49,31,2026-05-30,amazing product and reliable. The smart watch from HomeEase is a good choice.,Positive,15667.4
+855,NovaTech,Fashion,Running Shoes,1087.33,2.6,21,22,2026-09-10,not worth the price. The running shoes from NovaTech is not recommended.,Negative,23921.26
+856,NovaTech,Home & Kitchen,Storage Organizer,1646.67,3.8,39,17,2026-04-11,delivery was normal and packaging was fine. The storage organizer from NovaTech is satisfactory.,Neutral,27993.39
+857,ReadWell,Home & Kitchen,Coffee Maker,241.83,3.8,36,18,2026-08-23,average quality for the price. The coffee maker from ReadWell is satisfactory.,Neutral,4352.94
+858,NovaTech,Home & Kitchen,Electric Kettle,480.16,4.7,176,20,2026-08-01,amazing product and reliable. The electric kettle from NovaTech is a good choice.,Positive,9603.2
+859,NovaTech,Electronics,USB-C Hub,668.43,4.0,301,15,2026-08-19,amazing product and reliable. The usb-c hub from NovaTech is a good choice.,Positive,10026.45
+860,ProLine,Books,Machine Learning Book,1334.14,2.9,54,11,2026-09-13,not worth the price. The machine learning book from ProLine is not recommended.,Negative,14675.54
+861,SmartChoice,Electronics,USB-C Hub,1971.78,2.9,23,16,2026-08-10,poor quality and stopped working. The usb-c hub from SmartChoice is not recommended.,Negative,31548.48
+862,UrbanGear,Books,Machine Learning Book,976.98,3.6,17,22,2026-03-30,nothing special but acceptable. The machine learning book from UrbanGear is satisfactory.,Neutral,21493.56
+863,ReadWell,Home & Kitchen,Coffee Maker,384.75,2.9,35,11,2026-06-14,received a faulty product. The coffee maker from ReadWell is not recommended.,Negative,4232.25
+864,ProLine,Books,Novel,1448.33,3.9,11,24,2026-05-21,average quality for the price. The novel from ProLine is satisfactory.,Neutral,34759.92
+865,HomeEase,Books,Business Strategy Book,432.47,4.6,77,17,2026-03-10,fast delivery and good packaging. The business strategy book from HomeEase is a good choice.,Positive,7351.99
+866,ProLine,Home & Kitchen,Storage Organizer,723.16,3.4,187,23,2026-06-03,nothing special but acceptable. The storage organizer from ProLine is satisfactory.,Neutral,16632.68
+867,SmartChoice,Fashion,Sunglasses,2716.31,3.6,131,20,2026-04-13,average quality for the price. The sunglasses from SmartChoice is satisfactory.,Neutral,54326.2
+868,SmartChoice,Home & Kitchen,Mixer Grinder,425.17,4.2,34,20,2026-06-26,great value for money. The mixer grinder from SmartChoice is a good choice.,Positive,8503.4
+869,ProLine,Home & Kitchen,Air Fryer,235.38,3.7,170,20,2026-06-15,nothing special but acceptable. The air fryer from ProLine is satisfactory.,Neutral,4707.6
+870,ProLine,Electronics,Smart Watch,1019.56,3.5,68,15,2026-08-02,does the basic job. The smart watch from ProLine is satisfactory.,Neutral,15293.4
+871,NovaTech,Fashion,Casual Shirt,488.4,3.5,8,16,2026-02-24,nothing special but acceptable. The casual shirt from NovaTech is satisfactory.,Neutral,7814.4
+872,UrbanGear,Electronics,Power Bank,928.22,4.2,136,13,2026-01-29,excellent quality and works perfectly. The power bank from UrbanGear is a good choice.,Positive,12066.86
+873,UrbanGear,Home & Kitchen,Electric Kettle,1321.91,4.3,90,24,2026-05-09,great value for money. The electric kettle from UrbanGear is a good choice.,Positive,31725.84
+874,SmartChoice,Home & Kitchen,Coffee Maker,526.58,3.5,543,19,2026-04-15,delivery was normal and packaging was fine. The coffee maker from SmartChoice is satisfactory.,Neutral,10005.02
+875,ReadWell,Electronics,Smart Watch,581.31,4.0,11,20,2026-04-25,excellent quality and works perfectly. The smart watch from ReadWell is a good choice.,Positive,11626.2
+876,ProLine,Books,Python Programming Book,631.1,4.5,127,14,2026-05-28,amazing product and reliable. The python programming book from ProLine is a good choice.,Positive,8835.4
+877,ReadWell,Electronics,Power Bank,199.0,5.0,89,21,2026-06-10,fast delivery and good packaging. The power bank from ReadWell is a good choice.,Positive,4179.0
+878,SmartChoice,Electronics,Wireless Headphones,543.3,3.5,44,16,2026-04-14,delivery was normal and packaging was fine. The wireless headphones from SmartChoice is satisfactory.,Neutral,8692.8
+879,SmartChoice,Books,Python Programming Book,989.49,4.3,111,13,2026-07-08,highly recommended. The python programming book from SmartChoice is a good choice.,Positive,12863.37
+880,HomeEase,Home & Kitchen,Air Fryer,1533.56,4.4,17,16,2026-04-01,fast delivery and good packaging. The air fryer from HomeEase is a good choice.,Positive,24536.96
+881,UrbanGear,Electronics,Bluetooth Speaker,1816.07,4.5,108,21,2026-09-21,highly recommended. The bluetooth speaker from UrbanGear is a good choice.,Positive,38137.47
+882,NovaTech,Electronics,Power Bank,1806.5,3.8,155,18,2026-05-23,does the basic job. The power bank from NovaTech is satisfactory.,Neutral,32517.0
+883,UrbanGear,Fashion,Backpack,452.33,2.3,81,16,2026-05-11,quality could be much better. The backpack from UrbanGear is not recommended.,Negative,7237.28
+884,ReadWell,Electronics,Smart Watch,1337.0,3.7,7,17,2026-01-21,average quality for the price. The smart watch from ReadWell is satisfactory.,Neutral,22729.0
+885,ProLine,Home & Kitchen,Electric Kettle,2035.32,4.5,27,13,2026-06-04,excellent quality and works perfectly. The electric kettle from ProLine is a good choice.,Positive,26459.16
+886,ProLine,Books,Machine Learning Book,430.99,4.0,41,18,2026-02-07,great value for money. The machine learning book from ProLine is a good choice.,Positive,7757.82
+887,UrbanGear,Fashion,Sunglasses,1042.88,3.5,38,18,2026-09-24,average quality for the price. The sunglasses from UrbanGear is satisfactory.,Neutral,18771.84
+888,UrbanGear,Electronics,USB-C Hub,1414.75,3.7,109,20,2026-07-26,does the basic job. The usb-c hub from UrbanGear is satisfactory.,Neutral,28295.0
+889,UrbanGear,Electronics,Smart Watch,1288.35,4.3,9,20,2026-06-19,very useful and easy to use. The smart watch from UrbanGear is a good choice.,Positive,25767.0
+890,HomeEase,Fashion,Hoodie,548.68,4.2,297,14,2026-09-29,very useful and easy to use. The hoodie from HomeEase is a good choice.,Positive,7681.52
+891,SmartChoice,Books,Machine Learning Book,1900.14,4.1,236,17,2026-02-28,excellent quality and works perfectly. The machine learning book from SmartChoice is a good choice.,Positive,32302.38
+892,UrbanGear,Fashion,Casual Shirt,1085.8,2.9,129,21,2026-05-05,received a faulty product. The casual shirt from UrbanGear is not recommended.,Negative,22801.8
+893,ReadWell,Electronics,Smart Watch,1556.84,4.7,37,13,2026-02-28,amazing product and reliable. The smart watch from ReadWell is a good choice.,Positive,20238.92
+894,ProLine,Books,Business Strategy Book,424.42,4.5,101,14,2026-05-25,highly recommended. The business strategy book from ProLine is a good choice.,Positive,5941.88
+895,HomeEase,Electronics,USB-C Hub,1110.39,4.7,243,24,2026-09-18,better than expected. The usb-c hub from HomeEase is a good choice.,Positive,26649.36
+896,NovaTech,Books,Novel,1281.95,3.0,191,29,2026-04-09,delivery was normal and packaging was fine. The novel from NovaTech is satisfactory.,Neutral,37176.55
+897,NovaTech,Fashion,Sunglasses,414.04,4.1,28,15,2026-03-27,excellent quality and works perfectly. The sunglasses from NovaTech is a good choice.,Positive,6210.6
+898,UrbanGear,Electronics,Wireless Headphones,1289.61,4.2,37,19,2026-04-20,highly recommended. The wireless headphones from UrbanGear is a good choice.,Positive,24502.59
+899,UrbanGear,Books,Data Analytics Book,1163.77,3.3,36,21,2026-08-11,nothing special but acceptable. The data analytics book from UrbanGear is satisfactory.,Neutral,24439.17
+900,NovaTech,Electronics,Bluetooth Speaker,667.99,3.4,195,18,2026-06-19,does the basic job. The bluetooth speaker from NovaTech is satisfactory.,Neutral,12023.82
+901,NovaTech,Electronics,Wireless Headphones,482.6,3.0,13,26,2026-04-02,product is okay and works as expected. The wireless headphones from NovaTech is satisfactory.,Neutral,12547.6
+902,NovaTech,Fashion,Sunglasses,1177.14,4.3,86,18,2026-04-27,better than expected. The sunglasses from NovaTech is a good choice.,Positive,21188.52
+903,ReadWell,Fashion,Casual Shirt,416.07,4.6,36,12,2026-07-27,fast delivery and good packaging. The casual shirt from ReadWell is a good choice.,Positive,4992.84
+904,NovaTech,Books,Business Strategy Book,489.93,3.8,26,23,2026-03-02,does the basic job. The business strategy book from NovaTech is satisfactory.,Neutral,11268.39
+905,NovaTech,Electronics,USB-C Hub,1128.69,3.3,40,21,2026-01-24,nothing special but acceptable. The usb-c hub from NovaTech is satisfactory.,Neutral,23702.49
+906,ProLine,Electronics,Smart Watch,1809.33,4.7,209,21,2026-05-29,excellent quality and works perfectly. The smart watch from ProLine is a good choice.,Positive,37995.93
+907,NovaTech,Fashion,Sunglasses,869.46,3.5,78,14,2026-08-13,delivery was normal and packaging was fine. The sunglasses from NovaTech is satisfactory.,Neutral,12172.44
+908,SmartChoice,Books,Novel,1663.67,4.4,35,13,2026-08-31,excellent quality and works perfectly. The novel from SmartChoice is a good choice.,Positive,21627.71
+909,UrbanGear,Home & Kitchen,Mixer Grinder,780.65,4.4,23,18,2026-07-20,very useful and easy to use. The mixer grinder from UrbanGear is a good choice.,Positive,14051.7
+910,HomeEase,Fashion,Backpack,3186.8,4.1,119,16,2026-07-11,highly recommended. The backpack from HomeEase is a good choice.,Positive,50988.8
+911,ProLine,Electronics,USB-C Hub,1175.27,3.7,268,16,2026-03-05,average quality for the price. The usb-c hub from ProLine is satisfactory.,Neutral,18804.32
+912,ProLine,Electronics,Wireless Headphones,1553.04,3.8,49,21,2026-07-21,nothing special but acceptable. The wireless headphones from ProLine is satisfactory.,Neutral,32613.84
+913,UrbanGear,Electronics,Smart Watch,634.56,4.3,22,20,2026-06-26,highly recommended. The smart watch from UrbanGear is a good choice.,Positive,12691.2
+914,SmartChoice,Home & Kitchen,Storage Organizer,2751.14,4.4,37,16,2026-09-20,amazing product and reliable. The storage organizer from SmartChoice is a good choice.,Positive,44018.24
+915,UrbanGear,Home & Kitchen,Air Fryer,2312.93,3.9,36,16,2026-05-10,average quality for the price. The air fryer from UrbanGear is satisfactory.,Neutral,37006.88
+916,UrbanGear,Home & Kitchen,Coffee Maker,740.95,3.4,53,21,2026-01-28,nothing special but acceptable. The coffee maker from UrbanGear is satisfactory.,Neutral,15559.95
+917,NovaTech,Books,Machine Learning Book,622.81,4.4,82,27,2026-02-04,great value for money. The machine learning book from NovaTech is a good choice.,Positive,16815.87
+918,UrbanGear,Fashion,Running Shoes,474.59,3.8,219,22,2026-09-07,nothing special but acceptable. The running shoes from UrbanGear is satisfactory.,Neutral,10440.98
+919,UrbanGear,Fashion,Hoodie,667.55,3.2,36,17,2026-02-21,average quality for the price. The hoodie from UrbanGear is satisfactory.,Neutral,11348.35
+920,NovaTech,Fashion,Sunglasses,1022.44,3.9,78,23,2026-06-12,average quality for the price. The sunglasses from NovaTech is satisfactory.,Neutral,23516.12
+921,HomeEase,Books,Novel,1183.88,4.8,53,20,2026-06-06,better than expected. The novel from HomeEase is a good choice.,Positive,23677.6
+922,ProLine,Home & Kitchen,Mixer Grinder,1655.33,3.2,51,12,2026-06-11,delivery was normal and packaging was fine. The mixer grinder from ProLine is satisfactory.,Neutral,19863.96
+923,NovaTech,Books,Python Programming Book,719.13,4.2,132,17,2026-05-07,great value for money. The python programming book from NovaTech is a good choice.,Positive,12225.21
+924,HomeEase,Home & Kitchen,Storage Organizer,521.71,4.8,39,14,2026-07-04,amazing product and reliable. The storage organizer from HomeEase is a good choice.,Positive,7303.94
+925,ReadWell,Home & Kitchen,Electric Kettle,933.28,3.7,209,22,2026-08-17,does the basic job. The electric kettle from ReadWell is satisfactory.,Neutral,20532.16
+926,ReadWell,Fashion,Hoodie,199.0,3.3,144,23,2026-02-25,nothing special but acceptable. The hoodie from ReadWell is satisfactory.,Neutral,4577.0
+927,NovaTech,Home & Kitchen,Mixer Grinder,583.31,3.4,199,18,2026-03-13,delivery was normal and packaging was fine. The mixer grinder from NovaTech is satisfactory.,Neutral,10499.58
+928,SmartChoice,Home & Kitchen,Electric Kettle,1186.61,4.2,154,18,2026-02-09,highly recommended. The electric kettle from SmartChoice is a good choice.,Positive,21358.98
+929,ProLine,Electronics,Wireless Headphones,1264.57,3.1,8,23,2026-07-27,product is okay and works as expected. The wireless headphones from ProLine is satisfactory.,Neutral,29085.11
+930,ProLine,Home & Kitchen,Coffee Maker,199.0,4.3,335,19,2026-08-30,great value for money. The coffee maker from ProLine is a good choice.,Positive,3781.0
+931,ReadWell,Home & Kitchen,Electric Kettle,314.67,3.8,52,29,2026-05-29,average quality for the price. The electric kettle from ReadWell is satisfactory.,Neutral,9125.43
+932,ProLine,Home & Kitchen,Storage Organizer,1352.48,4.4,575,13,2026-02-16,better than expected. The storage organizer from ProLine is a good choice.,Positive,17582.24
+933,ProLine,Books,Business Strategy Book,1056.11,3.4,293,15,2026-05-03,product is okay and works as expected. The business strategy book from ProLine is satisfactory.,Neutral,15841.65
+934,UrbanGear,Home & Kitchen,Mixer Grinder,748.67,4.4,56,22,2026-03-23,fast delivery and good packaging. The mixer grinder from UrbanGear is a good choice.,Positive,16470.74
+935,ProLine,Home & Kitchen,Mixer Grinder,515.89,3.9,128,14,2026-09-05,average quality for the price. The mixer grinder from ProLine is satisfactory.,Neutral,7222.46
+936,UrbanGear,Fashion,Running Shoes,311.7,4.4,25,23,2026-09-07,amazing product and reliable. The running shoes from UrbanGear is a good choice.,Positive,7169.1
+937,HomeEase,Home & Kitchen,Coffee Maker,1575.5,4.1,52,18,2026-04-30,great value for money. The coffee maker from HomeEase is a good choice.,Positive,28359.0
+938,ProLine,Electronics,Bluetooth Speaker,618.76,3.2,129,15,2026-07-18,delivery was normal and packaging was fine. The bluetooth speaker from ProLine is satisfactory.,Neutral,9281.4
+939,NovaTech,Books,Novel,352.15,3.6,61,17,2026-06-15,product is okay and works as expected. The novel from NovaTech is satisfactory.,Neutral,5986.55
+940,SmartChoice,Electronics,USB-C Hub,1054.06,4.5,112,14,2026-05-21,amazing product and reliable. The usb-c hub from SmartChoice is a good choice.,Positive,14756.84
+941,ProLine,Fashion,Sunglasses,1253.88,4.7,75,16,2026-03-31,better than expected. The sunglasses from ProLine is a good choice.,Positive,20062.08
+942,HomeEase,Books,Novel,663.45,4.3,118,18,2026-02-09,better than expected. The novel from HomeEase is a good choice.,Positive,11942.1
+943,UrbanGear,Fashion,Casual Shirt,2245.99,3.6,173,26,2026-07-27,nothing special but acceptable. The casual shirt from UrbanGear is satisfactory.,Neutral,58395.74
+944,ReadWell,Fashion,Hoodie,877.62,3.5,120,10,2026-01-04,does the basic job. The hoodie from ReadWell is satisfactory.,Neutral,8776.2
+945,UrbanGear,Home & Kitchen,Storage Organizer,4250.69,4.7,137,21,2026-02-09,very useful and easy to use. The storage organizer from UrbanGear is a good choice.,Positive,89264.49
+946,UrbanGear,Fashion,Backpack,967.84,3.9,49,18,2026-03-22,average quality for the price. The backpack from UrbanGear is satisfactory.,Neutral,17421.12
+947,SmartChoice,Fashion,Sunglasses,1032.03,3.6,327,19,2026-04-28,product is okay and works as expected. The sunglasses from SmartChoice is satisfactory.,Neutral,19608.57
+948,SmartChoice,Books,Business Strategy Book,911.39,3.2,107,25,2026-09-04,product is okay and works as expected. The business strategy book from SmartChoice is satisfactory.,Neutral,22784.75
+949,UrbanGear,Books,Novel,538.25,3.9,17,18,2026-03-24,nothing special but acceptable. The novel from UrbanGear is satisfactory.,Neutral,9688.5
+950,UrbanGear,Books,Data Analytics Book,1419.93,4.0,22,20,2026-03-07,excellent quality and works perfectly. The data analytics book from UrbanGear is a good choice.,Positive,28398.6
+951,SmartChoice,Home & Kitchen,Air Fryer,1844.48,3.7,52,25,2026-01-21,nothing special but acceptable. The air fryer from SmartChoice is satisfactory.,Neutral,46112.0
+952,UrbanGear,Home & Kitchen,Coffee Maker,690.85,3.6,89,21,2026-04-03,delivery was normal and packaging was fine. The coffee maker from UrbanGear is satisfactory.,Neutral,14507.85
+953,ProLine,Books,Machine Learning Book,583.98,4.4,18,20,2026-01-10,highly recommended. The machine learning book from ProLine is a good choice.,Positive,11679.6
+954,UrbanGear,Fashion,Running Shoes,1390.11,3.1,51,22,2026-08-30,does the basic job. The running shoes from UrbanGear is satisfactory.,Neutral,30582.42
+955,UrbanGear,Books,Python Programming Book,908.93,3.3,127,19,2026-03-15,does the basic job. The python programming book from UrbanGear is satisfactory.,Neutral,17269.67
+956,SmartChoice,Home & Kitchen,Mixer Grinder,911.41,3.9,221,19,2026-05-16,nothing special but acceptable. The mixer grinder from SmartChoice is satisfactory.,Neutral,17316.79
+957,ReadWell,Home & Kitchen,Electric Kettle,1079.01,4.1,12,19,2026-02-05,better than expected. The electric kettle from ReadWell is a good choice.,Positive,20501.19
+958,ReadWell,Home & Kitchen,Storage Organizer,476.45,4.4,34,19,2026-02-25,very useful and easy to use. The storage organizer from ReadWell is a good choice.,Positive,9052.55
+959,ProLine,Electronics,Bluetooth Speaker,757.29,3.6,59,14,2026-08-03,nothing special but acceptable. The bluetooth speaker from ProLine is satisfactory.,Neutral,10602.06
+960,NovaTech,Home & Kitchen,Mixer Grinder,1068.67,4.2,9,20,2026-09-01,very useful and easy to use. The mixer grinder from NovaTech is a good choice.,Positive,21373.4
+961,ProLine,Electronics,USB-C Hub,1251.32,3.9,16,15,2026-02-17,product is okay and works as expected. The usb-c hub from ProLine is satisfactory.,Neutral,18769.8
+962,ProLine,Books,Python Programming Book,568.07,3.4,128,22,2026-01-01,nothing special but acceptable. The python programming book from ProLine is satisfactory.,Neutral,12497.54
+963,ReadWell,Books,Machine Learning Book,2275.93,3.6,142,15,2026-01-23,delivery was normal and packaging was fine. The machine learning book from ReadWell is satisfactory.,Neutral,34138.95
+964,ReadWell,Books,Python Programming Book,259.37,4.1,52,17,2026-07-15,amazing product and reliable. The python programming book from ReadWell is a good choice.,Positive,4409.29
+965,SmartChoice,Fashion,Sunglasses,1353.35,3.7,56,19,2026-02-20,nothing special but acceptable. The sunglasses from SmartChoice is satisfactory.,Neutral,25713.65
+966,HomeEase,Books,Python Programming Book,798.62,3.9,84,26,2026-04-30,does the basic job. The python programming book from HomeEase is satisfactory.,Neutral,20764.12
+967,ProLine,Electronics,Smart Watch,1640.37,3.2,158,10,2026-07-29,nothing special but acceptable. The smart watch from ProLine is satisfactory.,Neutral,16403.7
+968,NovaTech,Fashion,Backpack,416.25,4.3,123,19,2026-01-04,highly recommended. The backpack from NovaTech is a good choice.,Positive,7908.75
+969,NovaTech,Electronics,USB-C Hub,663.73,3.4,257,19,2026-04-16,does the basic job. The usb-c hub from NovaTech is satisfactory.,Neutral,12610.87
+970,HomeEase,Fashion,Casual Shirt,588.46,4.3,57,21,2026-03-21,excellent quality and works perfectly. The casual shirt from HomeEase is a good choice.,Positive,12357.66
+971,HomeEase,Books,Machine Learning Book,218.45,3.6,38,19,2026-08-05,delivery was normal and packaging was fine. The machine learning book from HomeEase is satisfactory.,Neutral,4150.55
+972,HomeEase,Fashion,Sunglasses,1229.03,4.2,77,20,2026-07-23,highly recommended. The sunglasses from HomeEase is a good choice.,Positive,24580.6
+973,ProLine,Home & Kitchen,Storage Organizer,1585.06,4.5,75,14,2026-09-05,amazing product and reliable. The storage organizer from ProLine is a good choice.,Positive,22190.84
+974,ProLine,Home & Kitchen,Electric Kettle,820.9,3.5,17,16,2026-09-05,nothing special but acceptable. The electric kettle from ProLine is satisfactory.,Neutral,13134.4
+975,ProLine,Fashion,Hoodie,1018.91,3.9,77,19,2026-07-23,delivery was normal and packaging was fine. The hoodie from ProLine is satisfactory.,Neutral,19359.29
+976,SmartChoice,Home & Kitchen,Coffee Maker,640.99,3.1,84,15,2026-08-17,average quality for the price. The coffee maker from SmartChoice is satisfactory.,Neutral,9614.85
+977,UrbanGear,Home & Kitchen,Coffee Maker,376.66,4.2,33,13,2026-07-25,better than expected. The coffee maker from UrbanGear is a good choice.,Positive,4896.58
+978,ProLine,Fashion,Sunglasses,1688.31,4.5,263,21,2026-01-27,highly recommended. The sunglasses from ProLine is a good choice.,Positive,35454.51
+979,SmartChoice,Home & Kitchen,Storage Organizer,1357.62,3.6,30,26,2026-02-16,product is okay and works as expected. The storage organizer from SmartChoice is satisfactory.,Neutral,35298.12
+980,ProLine,Home & Kitchen,Storage Organizer,2562.1,3.4,19,18,2026-02-15,does the basic job. The storage organizer from ProLine is satisfactory.,Neutral,46117.8
+981,UrbanGear,Electronics,Smart Watch,450.63,3.9,12,14,2026-02-10,delivery was normal and packaging was fine. The smart watch from UrbanGear is satisfactory.,Neutral,6308.82
+982,ReadWell,Electronics,Power Bank,434.57,3.2,45,23,2026-09-24,nothing special but acceptable. The power bank from ReadWell is satisfactory.,Neutral,9995.11
+983,NovaTech,Fashion,Sunglasses,651.74,3.2,87,23,2026-09-11,average quality for the price. The sunglasses from NovaTech is satisfactory.,Neutral,14990.02
+984,UrbanGear,Books,Data Analytics Book,526.95,4.4,78,20,2026-09-23,amazing product and reliable. The data analytics book from UrbanGear is a good choice.,Positive,10539.0
+985,NovaTech,Fashion,Backpack,1795.65,3.7,257,26,2026-09-19,nothing special but acceptable. The backpack from NovaTech is satisfactory.,Neutral,46686.9
+986,UrbanGear,Home & Kitchen,Mixer Grinder,2085.32,5.0,90,22,2026-01-19,highly recommended. The mixer grinder from UrbanGear is a good choice.,Positive,45877.04
+987,SmartChoice,Fashion,Backpack,1203.75,3.6,42,18,2026-03-22,product is okay and works as expected. The backpack from SmartChoice is satisfactory.,Neutral,21667.5
+988,ReadWell,Electronics,Smart Watch,1050.96,4.6,7,20,2026-07-22,great value for money. The smart watch from ReadWell is a good choice.,Positive,21019.2
+989,UrbanGear,Books,Machine Learning Book,667.51,4.3,66,16,2026-01-08,better than expected. The machine learning book from UrbanGear is a good choice.,Positive,10680.16
+990,ProLine,Electronics,Wireless Headphones,2001.97,4.3,54,11,2026-06-28,great value for money. The wireless headphones from ProLine is a good choice.,Positive,22021.67
+991,UrbanGear,Fashion,Hoodie,2803.67,4.6,31,24,2026-04-10,better than expected. The hoodie from UrbanGear is a good choice.,Positive,67288.08
+992,ProLine,Books,Novel,378.0,4.1,233,22,2026-05-14,excellent quality and works perfectly. The novel from ProLine is a good choice.,Positive,8316.0
+993,ProLine,Home & Kitchen,Storage Organizer,1113.04,3.0,54,31,2026-02-07,product is okay and works as expected. The storage organizer from ProLine is satisfactory.,Neutral,34504.24
+994,NovaTech,Fashion,Hoodie,1792.66,3.7,23,29,2026-05-12,nothing special but acceptable. The hoodie from NovaTech is satisfactory.,Neutral,51987.14
+995,ReadWell,Fashion,Casual Shirt,587.69,3.7,26,23,2026-09-05,nothing special but acceptable. The casual shirt from ReadWell is satisfactory.,Neutral,13516.87
+996,ReadWell,Home & Kitchen,Electric Kettle,1862.93,4.9,61,17,2026-08-24,highly recommended. The electric kettle from ReadWell is a good choice.,Positive,31669.81
+997,NovaTech,Electronics,Power Bank,345.7,3.0,264,17,2026-02-04,delivery was normal and packaging was fine. The power bank from NovaTech is satisfactory.,Neutral,5876.9
+998,SmartChoice,Books,Python Programming Book,970.37,3.1,161,22,2026-06-11,average quality for the price. The python programming book from SmartChoice is satisfactory.,Neutral,21348.14
+999,ProLine,Books,Business Strategy Book,779.55,3.9,80,20,2026-01-05,nothing special but acceptable. The business strategy book from ProLine is satisfactory.,Neutral,15591.0
+1000,HomeEase,Fashion,Backpack,4261.03,3.8,117,19,2026-07-24,product is okay and works as expected. The backpack from HomeEase is satisfactory.,Neutral,80959.57
